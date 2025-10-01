@@ -4,55 +4,55 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRX0ALLCAt86NbWiOEXmes%2B9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001319&boid=001&contentid=ch00000000000000001319&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001324&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央二套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",中央二套高清
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://124.90.44.40:6060/010/2/00000001000000060000000000000471?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRIuYreqxL1izhEYmHsZHZ4tlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001392&boid=001&contentid=ch00000000000000001392&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001378&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央三套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",中央三套高清
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://124.90.44.40:6060/010/2/00000001000000060000000000000642?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRoGJCq9OI8amMQUYIgI8NYNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001354&boid=001&contentid=ch00000000000000001354&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001348&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央四套" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",中央四套
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://124.90.44.40:6060/010/2/20002000000000010000000002765807?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="中央五套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",中央五套高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRrW%2Fo%2FapJQoglP7ccNBoOT9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001359&boid=001&contentid=ch00000000000000001359&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001351&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="CCTV5+高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+高清
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://124.90.44.40:6060/010/2/00000001000000060000000000000788?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRHeaXnTVxdXKTwjEYXPsrMdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001376&boid=001&contentid=ch00000000000000001376&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001366&userid=057401350507&recommendtype=0"
 
-#EXTINF:-1 tvg-name="中央六套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",中央六套高清
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://124.90.44.40:6060/010/2/00000001000000060000000000000644?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRpE96ShNks1uy0IFHff3JjNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001361&boid=001&contentid=ch00000000000000001361&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001353&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央七套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",中央七套高清
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://124.90.44.40:6060/010/2/00000001000000060000000000000472?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRP0DcwXAW1VWgqR1Rsb4Pd9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001362&boid=001&contentid=ch00000000000000001362&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001354&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央八套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",中央八套高清
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://124.90.44.40:6060/010/2/00000001000000060000000000000645?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRAsep9CfFgXUDfPmowMSintlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001363&boid=001&contentid=ch00000000000000001363&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001355&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央纪录高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",中央纪录高清
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://124.90.44.40:6060/010/2/00000001000000060000000000000473?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRnyyAJDiiwqYD%2FMWJIG3K0tlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001364&boid=001&contentid=ch00000000000000001364&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001356&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央科教高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",中央科教高清
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://124.90.44.40:6060/010/2/00000001000000060000000000000474?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRbbYx44w3uhvYbMlQ40Xlm9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001366&boid=001&contentid=ch00000000000000001366&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001358&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",中央戏曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://124.90.44.40:6060/010/2/20002000000000010000000002750676?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfCHgNJx%2BT6THxnOvFRwnG8oAz0kLQsmfZaVd1Lk73Rq13UYTqDKLLemCE8Gab6Ot3dlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001369&boid=001&contentid=ch00000000000000001369&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001359&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央十二高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",中央十二高清
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://124.90.44.40:6060/010/2/00000001000000060000000000000476?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRG4wG6T2YT80C6ZKXbiPmltlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001370&boid=001&contentid=ch00000000000000001370&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001360&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央新闻高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",中央新闻高清
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://124.90.44.40:6060/010/2/00000001000000060000000000000793?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRma90f20CaQAUylG5ze%2F8%2B9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001371&boid=001&contentid=ch00000000000000001371&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001361&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央少儿高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",中央少儿高清
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://124.90.44.40:6060/010/2/00000001000000060000000000000477?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRd8TtYyZJ6Jt0zK0P7scobdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001372&boid=001&contentid=ch00000000000000001372&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001362&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",中央音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://124.90.44.40:6060/010/2/00000001000000060000000000000437?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRLl1Y8b2gUbw1ey2w9dFoKNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001373&boid=001&contentid=ch00000000000000001373&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001363&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央奥运" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",中央奥运
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfJHsTnvxgOWSL5JdHF9dYJc5ClWLEgr2w%2FyaoOVDLtcRxtO6bcv7VZSwp3%2B4fljkV9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001375&boid=001&contentid=ch00000000000000001375&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001365&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="中央十七套" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",中央十七套
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://124.90.44.40:6060/010/2/00000001000000060000000000000799?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRrh9r2w9zhoXqZPos6%2B5p%2BtlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001374&boid=001&contentid=ch00000000000000001374&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001364&userid=057401350507&recommendtype=0
 
 #EXTGRP:卫视
@@ -157,7 +157,7 @@ http://124.90.44.40:6060/010/2/20002000000000010000000002776032?AuthInfo=z65J6ZD
 
 #EXTGRP:4K
 
-#EXTINF:-1 tvg-name="央视4K" tvg-logo="" group-title="4K",央视4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="" group-title="4K",CCTV4K
 http://124.90.44.40:6060/010/2/01000010000000060000000000002859?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfJHsTnvxgOWSL5JdHF9dYJc5ClWLEgr2w%2FyaoOVDLtcREKwuGjW%2Bb2VU%2BBbhBDo0W9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001487&boid=001&contentid=ch00000000000000001487&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001449&userid=057401350507&recommendtype=0"
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="" group-title="4K",北京卫视
@@ -287,6 +287,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000802?AuthInfo=z65J6ZD
 
 #EXTINF:-1 tvg-name="CGTNRussian113" tvg-logo="", group-title="CGTV",CGTNRussian113
 http://124.90.44.40:6060/010/2/00000001000000060000000000000803?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRKZol7MdytBvjQOaaQGJ1QNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001456&boid=001&contentid=ch00000000000000001456&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001420&userid=057401350507&recommendtype=0
+
 
 
 
