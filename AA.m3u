@@ -1,6 +1,6 @@
 #EXTGRP:央视
 #EXTM3U url-tvg="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 tvg-name="中央一套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",中央一套高清
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRX0ALLCAt86NbWiOEXmes%2B9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001319&boid=001&contentid=ch00000000000000001319&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001324&userid=057401350507&recommendtype=0
 
 #EXTINF:-1 tvg-name="中央二套高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",中央二套高清
@@ -286,6 +286,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000802?AuthInfo=z65J6ZD
 
 #EXTINF:-1 tvg-name="CGTNRussian113" tvg-logo="", group-title="CGTV",CGTNRussian113
 http://124.90.44.40:6060/010/2/00000001000000060000000000000803?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRKZol7MdytBvjQOaaQGJ1QNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001456&boid=001&contentid=ch00000000000000001456&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001420&userid=057401350507&recommendtype=0
+
 
 
 
