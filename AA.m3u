@@ -49,7 +49,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000477?AuthInfo=z65J6ZD
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV15.png" group-title="央视",CCTV15
 http://124.90.44.40:6060/010/2/00000001000000060000000000000437?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRLl1Y8b2gUbw1ey2w9dFoKNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001373&boid=001&contentid=ch00000000000000001373&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001363&userid=057401350507&recommendtype=0
 
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16_1.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16.png" group-title="央视",CCTV16
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfJHsTnvxgOWSL5JdHF9dYJc5ClWLEgr2w%2FyaoOVDLtcRxtO6bcv7VZSwp3%2B4fljkV9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001375&boid=001&contentid=ch00000000000000001375&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001365&userid=057401350507&recommendtype=0
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV17.png" group-title="央视",CCTV17
@@ -287,6 +287,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000802?AuthInfo=z65J6ZD
 
 #EXTINF:-1 tvg-name="CGTNRussian113" tvg-logo="", group-title="CGTV",CGTNRussian113
 http://124.90.44.40:6060/010/2/00000001000000060000000000000803?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRKZol7MdytBvjQOaaQGJ1QNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001456&boid=001&contentid=ch00000000000000001456&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001420&userid=057401350507&recommendtype=0
+
 
 
 
