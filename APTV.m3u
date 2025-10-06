@@ -186,50 +186,51 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002057?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000009000000060000000000002055?virtualDomain=010.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="民生休闲" tvg-name="民生休闲" tvg-logo="" group-title="浙江",民生休闲
+#EXTINF:-1 tvg-id="民生休闲" tvg-name="民生休闲" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江民生.png" group-title="浙江",民生休闲
 http://124.90.44.40:6060/010/2/00000001000000060000000000000578?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江",浙江少儿
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江少儿.png" group-title="浙江",浙江少儿
 http://124.90.44.40:6060/010/2/00000001000000060000000000000580?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="" group-title="浙江",宁波生活
+#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波经济生活.png" group-title="浙江",宁波生活
 http://124.90.44.40:6060/010/2/00000001000000060000000000000789?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="" group-title="浙江",宁波影视
+#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波影视剧.png" group-title="浙江",宁波影视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000791?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="宁波综合" tvg-name="宁波综合" tvg-logo="" group-title="浙江",宁波综合
+#EXTINF:-1 tvg-id="宁波综合" tvg-name="宁波综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波新闻综合.png" group-title="浙江",宁波综合
 http://124.90.44.40:6060/010/2/00000001000000060000000000000600?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="" group-title="浙江",宁波都市
+#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波都市文体.png" group-title="浙江",宁波都市
 http://124.90.44.40:6060/010/2/00000001000000060000000000000790?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="" group-title="浙江",衢州一套
+#EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州新闻综合.png" group-title="浙江",衢州一套
 http://124.90.44.40:6060/010/2/01000010000000060000000000002837?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="" group-title="浙江",衢州二套
+#EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州公共.png" group-title="浙江",衢州二套
 http://124.90.44.40:6060/010/2/01000010000000060000000000002838?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="" group-title="浙江",之江记录
 http://124.90.44.40:6060/010/2/01000010000000060000000000002844?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="" group-title="浙江",杭州综合
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州综合.png" group-title="浙江",杭州综合
 http://124.90.44.40:6060/010/2/00000001000000060000000000000782?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="" group-title="浙江",杭州生活
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州生活.png" group-title="浙江",杭州生活
 http://124.90.44.40:6060/010/2/00000001000000060000000000000784?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="" group-title="浙江",杭州影视
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州影视.png" group-title="浙江",杭州影视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000785?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="绍兴一套" tvg-name="绍兴一套" tvg-logo="" group-title="浙江",绍兴一套
+#EXTINF:-1 tvg-id="绍兴一套" tvg-name="绍兴一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/绍兴新闻综合.png" group-title="浙江",绍兴一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="温州一套" tvg-name="温州一套" tvg-logo="" group-title="浙江",温州一套
+#EXTINF:-1 tvg-id="温州一套" tvg-name="温州一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/温州新闻综合.png" group-title="浙江",温州一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="" group-title="浙江",杭州导视
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
