@@ -58,7 +58,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000799?virtualDomain=01
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV4K.png" group-title="4K",CCTV4K
 http://124.90.44.40:6060/010/2/01000010000000060000000000002859?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfJHsTnvxgOWSL5JdHF9dYJc5ClWLEgr2w%2FyaoOVDLtcREKwuGjW%2Bb2VU%2BBbhBDo0W9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001487&boid=001&contentid=ch00000000000000001487&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001449&userid=057401350507&recommendtype=0"
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV4K.png" group-title="4K",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/BJ4K.png" group-title="4K",北京卫视
 http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/DF4K.png" group-title="4K",东方卫视
@@ -239,6 +239,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
