@@ -222,6 +222,9 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000784?virtualDomain=01
 #EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州影视.png" group-title="浙江",杭州影视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000785?virtualDomain=010.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江钱江都市.png" group-title="浙江",钱江都市
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcR%2BpYIzq1HSA%2BEhAaSpzXBhtlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001324&boid=001&contentid=ch00000000000000001324&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001327&userid=057401350507&recommendtype=0"
+
 #EXTINF:-1 tvg-id="绍兴一套" tvg-name="绍兴一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/绍兴新闻综合.png" group-title="浙江",绍兴一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
 
@@ -230,6 +233,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
