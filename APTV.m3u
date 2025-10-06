@@ -210,7 +210,7 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002837?virtualDomain=01
 #EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州公共.png" group-title="浙江",衢州二套
 http://124.90.44.40:6060/010/2/01000010000000060000000000002838?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="" group-title="浙江",之江记录
+#EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/之江记录.png" group-title="浙江",之江记录
 http://124.90.44.40:6060/010/2/01000010000000060000000000002844?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州综合.png" group-title="浙江",杭州综合
@@ -230,6 +230,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
