@@ -192,17 +192,17 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000578?virtualDomain=01
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江少儿.png" group-title="浙江",浙江少儿
 http://124.90.44.40:6060/010/2/00000001000000060000000000000580?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波经济生活.png" group-title="浙江",宁波生活
-http://124.90.44.40:6060/010/2/00000001000000060000000000000789?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波影视剧.png" group-title="浙江",宁波影视
-http://124.90.44.40:6060/010/2/00000001000000060000000000000791?virtualDomain=010.live_hls.zte.com
-
 #EXTINF:-1 tvg-id="宁波综合" tvg-name="宁波综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波新闻综合.png" group-title="浙江",宁波综合
 http://124.90.44.40:6060/010/2/00000001000000060000000000000600?virtualDomain=010.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波经济生活.png" group-title="浙江",宁波生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789?virtualDomain=010.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波都市文体.png" group-title="浙江",宁波都市
 http://124.90.44.40:6060/010/2/00000001000000060000000000000790?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波影视剧.png" group-title="浙江",宁波影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州新闻综合.png" group-title="浙江",衢州一套
 http://124.90.44.40:6060/010/2/01000010000000060000000000002837?virtualDomain=010.live_hls.zte.com
@@ -239,6 +239,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
