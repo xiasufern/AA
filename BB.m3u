@@ -10,7 +10,6 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000471?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000001000000060000000000000642?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV4.png" group-title="央视",CCTV4
-http://iptv.nanomi.cn:4000/udp/239.93.1.105:5140
 http://61.159.135.223:18000/rtp/238.255.2.92:5999
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="央视",CCTV5
@@ -239,6 +238,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
