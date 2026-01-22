@@ -95,7 +95,7 @@ http://rihou.cc:555/tv/[PL]凤凰资讯
 http://rihou.cc:555/tv/[PL]凤凰香港
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/翡翠.png" group-title="HK",翡翠台
-https://smart.946985.filegear-sg.me/iptv.php?id=35s6cg&token=tg_Thinkoo_bot
+https://smart.946985.filegear-sg.me/iptv.php?id=5yutyy&token=tg_Thinkoo_bot
 
 #EXTINF:-1 tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW新闻.png" group-title="HK",now新闻台
 https://smart.946985.filegear-sg.me/iptv.php?id=8w8gh9&token=tg_Thinkoo_bot
@@ -271,6 +271,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
