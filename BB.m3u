@@ -84,34 +84,6 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=01
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/SD4K.png" group-title="4K",山东卫视
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
 
-
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰中文.png" group-title="HK",凤凰中文台
-https://smart.946985.filegear-sg.me/iptv.php?id=97lf95&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰资讯.png" group-title="HK",凤凰资讯台
-https://smart.946985.filegear-sg.me/iptv.php?id=wl0qan&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰香港.png" group-title="HK",凤凰香港台
-https://smart.946985.filegear-sg.me/iptv.php?id=i86gs8&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/翡翠.png" group-title="HK",翡翠台
-https://smart.946985.filegear-sg.me/iptv.php?id=5yutyy&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW新闻.png" group-title="HK",NOW新闻台
-https://smart.946985.filegear-sg.me/iptv.php?id=8w8gh9&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW财经.png" group-title="HK",NOW财经台
-http://hls.168.us.kg/u/333/master.m3u8
-
-#EXTINF:-1 tvg-id="NOW体育台" tvg-name="now体育台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW体育.png" group-title="HK",NOW体育台
-http://rihou.cc:555/tv/[Mt]Now体育
-
-#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/POPC.png" group-title="HK",POPC
-https://smart.946985.filegear-sg.me/iptv.php?id=lutp9g&token=tg_Thinkoo_bot
-
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/美亚电影.png" group-title="HK",美亚电影
-https://smart.946985.filegear-sg.me/iptv.php?id=8adwk4&token=tg_Thinkoo_bot
-
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com
 
@@ -265,6 +237,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
