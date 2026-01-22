@@ -112,6 +112,9 @@ http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-id="now体育台" tvg-name="now体育台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW体育.png" group-title="HK",now体育台
 http://rihou.cc:555/tv/[Mt]Now体育
 
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/POPC.png" group-title="HK",POPC
+https://smart.946985.filegear-sg.me/iptv.php?id=lutp9g&token=tg_Thinkoo_bot
+
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com
 
@@ -265,6 +268,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
