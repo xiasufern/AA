@@ -84,6 +84,24 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=01
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/SD4K.png" group-title="4K",山东卫视
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰中文.png" group-title="HK",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰资讯.png" group-title="HK",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰香港.png" group-title="HK",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/翡翠.png" group-title="HK",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-id="now新闻" tvg-name="now新闻" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW新闻.png" group-title="HK",now新闻
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+
+#EXTINF:-1 tvg-id="now财经" tvg-name="now财经" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW财经.png" group-title="HK",now财经
+https://yang-1989.eu.org/live/now-333
+
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com
 
@@ -237,6 +255,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=01
 
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
 
 
 
