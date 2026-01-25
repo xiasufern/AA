@@ -1,10 +1,11 @@
 import requests
 import re
 from datetime import datetime
+import os
 
-# JULI Worker URL
+# Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-EE_FILE = "EE.m3u"   # 输出文件名
+EE_FILE = "EE.m3u"
 
 def fetch(url):
     headers = {
@@ -19,25 +20,21 @@ def fetch(url):
         return r.text
     except Exception as e:
         print(f"⚠️ Fetch failed: {e}")
-        return ""  # 返回空字符串，保证脚本不会报错
+        return ""
 
 def extract_strict_juli(text):
     lines = text.splitlines()
     juli_lines = []
     capture = False
-
-    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")  # UTC 时间戳
+    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     for line in lines:
-        # 只抓 group-title="JULI" 的条目
         if line.startswith("#EXTINF:") and re.search(r'group-title=["\']JULI["\']', line, re.IGNORECASE):
             capture = True
             line = re.sub(r'group-title=["\'].*?["\']', 'group-title="HK"', line)
             line += f' [{now_str}]'
             juli_lines.append(line)
             continue
-
-        # URL 行，只有 capture=True 才抓
         if capture and line.strip() != "":
             juli_lines.append(line)
             capture = False
@@ -48,14 +45,14 @@ def main():
     print("[+] Fetch JULI subscription")
     juli_raw = fetch(JULI_SUB_URL)
     if not juli_raw.strip():
-        print("⚠️ JULI source is empty, generating empty EE.m3u")
+        print("⚠️ JULI source empty, EE.m3u will be empty")
     juli_only = extract_strict_juli(juli_raw)
 
     # 覆盖写入 EE.m3u
     with open(EE_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
-    print(f"[✓] Generated {EE_FILE} (strict JULI → HK, overwrite)")
+    print(f"[✓] EE.m3u generated (strict JULI → HK, overwrite)")
 
 if __name__ == "__main__":
     main()
