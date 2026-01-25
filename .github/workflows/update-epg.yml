@@ -1,0 +1,33 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "0 19 * * *"   # 北京时间 03:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update EPG
+        run: python update_epg.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add epg-all.xml
+          git commit -m "Auto update epg-all.xml" || echo "No changes"
+          git push
