@@ -1,7 +1,8 @@
 import requests
+import re
 
+# JULI 订阅 Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-BB_URL = "https://raw.githubusercontent.com/xiasufern/AA/main/BB.m3u"
 DD_FILE = "DD.m3u"
 
 def fetch(url):
@@ -14,10 +15,10 @@ def extract_juli_channels(juli_text):
     new_lines = []
     for line in lines:
         if line.startswith("#EXTINF:"):
+            # 统一分组为 HK
             if "group-title=" not in line:
                 line = line.replace("#EXTINF:", '#EXTINF:-1 group-title="HK",')
             else:
-                import re
                 line = re.sub(r'group-title=".*?"', 'group-title="HK"', line)
         new_lines.append(line)
     return "\n".join(new_lines)
@@ -27,15 +28,11 @@ def main():
     juli_raw = fetch(JULI_SUB_URL)
     juli_channels = extract_juli_channels(juli_raw)
 
-    print("[+] Fetch BB.m3u")
-    bb_raw = fetch(BB_URL)
-
-    combined = bb_raw.strip() + "\n" + juli_channels.strip()
-
+    # 只保存 JULI 直播
     with open(DD_FILE, "w", encoding="utf-8") as f:
-        f.write(combined)
+        f.write(juli_channels.strip() + "\n")
 
-    print(f"[✓] Generated {DD_FILE}")
+    print(f"[✓] Generated {DD_FILE} (only JULI)")
 
 if __name__ == "__main__":
     main()
