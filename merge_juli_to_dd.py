@@ -10,21 +10,21 @@ def fetch(url):
     r.raise_for_status()
     return r.text
 
-def extract_juli_only(text):
+def extract_juli_strict(text):
     lines = text.splitlines()
     juli_lines = []
     capture = False
 
     for line in lines:
-        # 找到 #EXTINF 且 group-title="JULI" 的条目
-        if line.startswith("#EXTINF:") and 'group-title="JULI"' in line:
+        # 只匹配 group-title="JULI" （大小写不敏感）
+        if line.startswith("#EXTINF:") and re.search(r'group-title=["\']JULI["\']', line, re.IGNORECASE):
             capture = True
-            # 替换为 HK 分组
-            line = re.sub(r'group-title=".*?"', 'group-title="HK"', line)
+            # 替换为 HK
+            line = re.sub(r'group-title=["\'].*?["\']', 'group-title="HK"', line)
             juli_lines.append(line)
             continue
 
-        # URL 行，capture=True 才抓
+        # URL 行，只有 capture=True 才抓
         if capture and line.strip() != "":
             juli_lines.append(line)
             capture = False
@@ -34,12 +34,12 @@ def extract_juli_only(text):
 def main():
     print("[+] Fetch JULI subscription")
     juli_raw = fetch(JULI_SUB_URL)
-    juli_only = extract_juli_only(juli_raw)
+    juli_only = extract_juli_strict(juli_raw)
 
     with open(DD_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
-    print(f"[✓] Generated {DD_FILE} (only JULI → HK)")
+    print(f"[✓] Generated {DD_FILE} (strict JULI → HK)")
 
 if __name__ == "__main__":
     main()
