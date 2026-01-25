@@ -1,27 +1,20 @@
-name: Update EPG
+      - name: Download EPGs
+        run: |
+          curl -L \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Referer: https://epg.946985.filegear-sg.me/" \
+            -o pp.xml \
+            https://epg.112114.xyz/pp.xml
 
-on:
-  schedule:
-    - cron: "0 19 * * *"   # 北京时间 03:00
-  workflow_dispatch:
+          curl -L \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Referer: https://epg.946985.filegear-sg.me/" \
+            -o t.xml.gz \
+            https://epg.946985.filegear-sg.me/t.xml.gz
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+          gunzip -f t.xml.gz
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Update EPG
+      - name: Merge EPG
         run: python update_epg.py
 
       - name: Commit and push
