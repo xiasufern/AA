@@ -1,0 +1,45 @@
+name: Fetch Strict JULI EE.m3u
+
+on:
+  workflow_dispatch:    # 手动触发
+  schedule:
+    - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
+    - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_juli:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Generate EE.m3u (strict JULI → HK, overwrite)
+        run: python merge_juli_to_ee.py
+
+      - name: Commit EE.m3u (force overwrite)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # 强制同步远程仓库，确保覆盖提交
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fd
+
+          git add EE.m3u
+          git commit -m "Update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
+          git push origin main --force
