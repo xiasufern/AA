@@ -1,15 +1,20 @@
 import requests
 import re
 from datetime import datetime
-import os
 
 # JULI Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
 EE_FILE = "EE.m3u"   # 输出文件名
 
 def fetch(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/114.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+    }
     try:
-        r = requests.get(url, timeout=20)
+        r = requests.get(url, headers=headers, timeout=20)
         r.raise_for_status()
         return r.text
     except Exception as e:
@@ -43,9 +48,11 @@ def extract_strict_juli(text):
 def main():
     print("[+] Fetch JULI subscription")
     juli_raw = fetch(JULI_SUB_URL)
+    if not juli_raw.strip():
+        print("⚠️ JULI source is empty, generating empty EE.m3u")
     juli_only = extract_strict_juli(juli_raw)
 
-    # 覆盖写入 EE.m3u，如果没有抓到也写空文件
+    # 覆盖写入 EE.m3u
     with open(EE_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
