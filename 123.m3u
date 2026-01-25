@@ -1,0 +1,503 @@
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV1.png" group-title="央视",CCTV1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV2.png" group-title="央视",CCTV2
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV3.png" group-title="央视",CCTV3
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV4.png" group-title="央视",CCTV4
+http://124.90.44.40:6060/010/2/00000009000000060000000000002077?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRIuYreqxL1izhEYmHsZHZ4tlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001392&boid=001&contentid=ch00000000000000001392&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001378&userid=057401350507&recommendtype=0
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="央视",CCTV5
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5+.png" group-title="央视",CCTV5+
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRHeaXnTVxdXKTwjEYXPsrMdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001376&boid=001&contentid=ch00000000000000001376&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001366&userid=057401350507&recommendtype=0"
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV6.png" group-title="央视",CCTV6
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV7.png" group-title="央视",CCTV7
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV8.png" group-title="央视",CCTV8
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV9.png" group-title="央视",CCTV9
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV10.png" group-title="央视",CCTV10
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV11.png" group-title="央视",CCTV11
+http://124.93.18.238:81/hls/11/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV12.png" group-title="央视",CCTV12
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV13.png" group-title="央视",CCTV13
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV14.png" group-title="央视",CCTV14
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV15.png" group-title="央视",CCTV15
+http://124.93.18.238:81/hls/15/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16.png" group-title="央视",CCTV16
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV17.png" group-title="央视",CCTV17
+http://39.164.138.145:8899/hls/17/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV4K.png" group-title="4K",CCTV4K
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/BJ4K.png" group-title="4K",北京卫视
+http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/DF4K.png" group-title="4K",东方卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002067?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HN4K.png" group-title="4K",湖南卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002069?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/JS4K.png" group-title="4K",江苏卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002071?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/SZ4K.png" group-title="4K",深圳卫视
+http://124.90.44.40:6060/010/2/01000010000000060000000000002878?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/ZJ4K.png" group-title="4K",浙江卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/GD4K.png" group-title="4K",广东卫视
+http://124.90.44.40:6060/010/2/01000010000000060000000000002877?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/SC4K.png" group-title="4K",四川卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/SD4K.png" group-title="4K",山东卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000478?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000394?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000449?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/BJJS.png" group-title="卫视",北京纪实
+http://124.90.44.40:6060/010/2/01000010000000060000000000002855?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000450?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000393?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000365?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000585?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000395?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000587?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000588?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000461?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000583?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000436?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000462?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000582?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000581?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000584?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776036?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000459?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000586?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776028?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000594?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776012?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002775980?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776032?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776020?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000593?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776000?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/xinjiang.png" group-title="卫视",新疆卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002051?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002057?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://124.90.44.40:6060/010/2/00000009000000060000000000002055?virtualDomain=010.live_hls.zte.com
+
+
+#EXTINF:-1 tvg-id="民生休闲" tvg-name="民生休闲" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江民生.png" group-title="浙江",民生休闲
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江少儿.png" group-title="浙江",浙江少儿
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="宁波综合" tvg-name="宁波综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波新闻综合.png" group-title="浙江",宁波综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波经济生活.png" group-title="浙江",宁波生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波都市文体.png" group-title="浙江",宁波都市
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/宁波影视剧.png" group-title="浙江",宁波影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州新闻综合.png" group-title="浙江",衢州一套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/衢州公共.png" group-title="浙江",衢州二套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/之江记录.png" group-title="浙江",之江记录
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州综合.png" group-title="浙江",杭州综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州生活.png" group-title="浙江",杭州生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州影视.png" group-title="浙江",杭州影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江教影" tvg-name="浙江教影" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江教科影视.png" group-title="浙江",浙江教影
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRnz1WKm2SzJ4k357k9Z%2BUDNlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001328&boid=001&contentid=ch00000000000000001328&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001329&userid=057401350507&recommendtype=0"
+
+#EXTINF:-1 tvg-id="杭州青体" tvg-name="杭州青体" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州青少体育.png" group-title="浙江",杭州青体
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcRJ092mXV7SGgr2MydjvFIz9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001340&boid=001&contentid=ch00000000000000001340&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001338&userid=057401350507&recommendtype=0"
+
+#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/浙江钱江都市.png" group-title="浙江",钱江都市
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571?AuthInfo=z65J6ZDNYqti%2F6F%2BPX%2BzfKPQRt%2FPjzMSkozGSNJ866M5ClWLEgr2w%2FyaoOVDLtcR%2BpYIzq1HSA%2BEhAaSpzXBhtlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com&programid=ch00000000000000001324&boid=001&contentid=ch00000000000000001324&stbid=00000433002420502508E81711206E58&terminalflag=1&videoid=ch00000090990000001327&userid=057401350507&recommendtype=0"
+
+#EXTINF:-1 tvg-id="绍兴一套" tvg-name="绍兴一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/绍兴新闻综合.png" group-title="浙江",绍兴一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="温州一套" tvg-name="温州一套" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/温州新闻综合.png" group-title="浙江",温州一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/zjicon/杭州导视.png" group-title="浙江",杭州导视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台
+https://smart.946985.filegear-sg.me/iptv.php?id=35s6cg&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台广电
+https://smart.946985.filegear-sg.me/iptv.php?id=5yutyy&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台4K
+https://smart.946985.filegear-sg.me/iptv.php?id=nskqbu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="HK",无线新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=kjyqdz&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="HK",无线新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=hisau3&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="HK",TVB PLUS
+https://smart.946985.filegear-sg.me/iptv.php?id=dvqwbo&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="HK",明珠台
+https://smart.946985.filegear-sg.me/iptv.php?id=pn98hu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="HK",明珠台
+https://smart.946985.filegear-sg.me/iptv.php?id=8lt0a7&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="HK",HOY 77
+https://smart.946985.filegear-sg.me/iptv.php?id=hay4cq&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="HK",HOY 77
+https://smart.946985.filegear-sg.me/iptv.php?id=wiygm3&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="HK",HOY 78
+https://smart.946985.filegear-sg.me/iptv.php?id=5zeh5b&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="HOY剧集台" group-title="HK",HOY剧集台
+https://smart.946985.filegear-sg.me/iptv.php?id=c5so3n&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="HK",ViuTV
+https://smart.946985.filegear-sg.me/iptv.php?id=8pkq72&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="HK",NOW新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=8w8gh9&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="HK",NOW星影
+https://smart.946985.filegear-sg.me/iptv.php?id=awlcvu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW 爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="HK",NOW爆谷
+https://smart.946985.filegear-sg.me/iptv.php?id=8pepyn&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TV 31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="HK",RTHK31
+https://smart.946985.filegear-sg.me/iptv.php?id=849xm7&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TV 32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="HK",RTHK32
+https://smart.946985.filegear-sg.me/iptv.php?id=ah8xpw&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="HK",澳视澳门
+https://smart.946985.filegear-sg.me/iptv.php?id=7jwrzk&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="HK",澳视卫星
+https://smart.946985.filegear-sg.me/iptv.php?id=b66olg&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",澳门体育
+https://smart.946985.filegear-sg.me/iptv.php?id=11z57k&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",澳门综艺
+https://smart.946985.filegear-sg.me/iptv.php?id=84vgi3&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="HK",澳门莲花
+https://smart.946985.filegear-sg.me/iptv.php?id=ogha5b&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="HK",广东珠江
+https://smart.946985.filegear-sg.me/iptv.php?id=0smnxu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="HK",广东体育
+https://smart.946985.filegear-sg.me/iptv.php?id=e7uqzg&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="HK",CCTV1
+https://smart.946985.filegear-sg.me/iptv.php?id=ynlknq&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="HK",CCTV13
+https://smart.946985.filegear-sg.me/iptv.php?id=e279on&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="HK",海峡卫视
+https://smart.946985.filegear-sg.me/iptv.php?id=6dqqkp&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="HK",五星体育
+https://smart.946985.filegear-sg.me/iptv.php?id=n0oo52&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="HK",第一财经
+https://smart.946985.filegear-sg.me/iptv.php?id=ihouu6&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="HK",凤凰资讯
+https://smart.946985.filegear-sg.me/iptv.php?id=wl0qan&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="HK",凤凰中文
+https://smart.946985.filegear-sg.me/iptv.php?id=97lf95&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="HK",凤凰香港
+https://smart.946985.filegear-sg.me/iptv.php?id=i86gs8&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="HK",龙华电影
+https://smart.946985.filegear-sg.me/iptv.php?id=ffr15u&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="龙华经典HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="HK",龙华经典
+https://smart.946985.filegear-sg.me/iptv.php?id=75tonq&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png" group-title="HK",龙华卡通
+https://smart.946985.filegear-sg.me/iptv.php?id=j6dlfq&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="HK",龙华偶像
+https://smart.946985.filegear-sg.me/iptv.php?id=aerczf&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="HK",龙华日韩
+https://smart.946985.filegear-sg.me/iptv.php?id=1ntcf2&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="HK",龙华戏剧
+https://smart.946985.filegear-sg.me/iptv.php?id=f7roaf&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="龙华洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="HK",龙华洋片
+https://smart.946985.filegear-sg.me/iptv.php?id=dvztch&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",TVB1
+https://smart.946985.filegear-sg.me/iptv.php?id=mmqizr&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="HK",TVBJ1
+https://smart.946985.filegear-sg.me/iptv.php?id=apdrxi&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="HK",重温经典
+https://smart.946985.filegear-sg.me/iptv.php?id=qrjltb&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠剧集台
+https://smart.946985.filegear-sg.me/iptv.php?id=ritfgu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",华丽翡翠台
+https://smart.946985.filegear-sg.me/iptv.php?id=eybros&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",TVB亚洲武侠
+https://smart.946985.filegear-sg.me/iptv.php?id=rg9sbl&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="HK",TVB星河
+https://smart.946985.filegear-sg.me/iptv.php?id=vf78za&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="HK",TVB星河
+https://smart.946985.filegear-sg.me/iptv.php?id=x1gq6u&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="HK",TVB娱乐新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=aip9c0&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",华丽翡翠台
+https://smart.946985.filegear-sg.me/iptv.php?id=4pzk5m&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="HK",天映频道
+https://smart.946985.filegear-sg.me/iptv.php?id=67lesx&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="HK",天映经典
+https://smart.946985.filegear-sg.me/iptv.php?id=pq3at1&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",八度空间
+https://smart.946985.filegear-sg.me/iptv.php?id=e8orvg&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="CH 5 (HD)" group-title="HK",CH5
+https://smart.946985.filegear-sg.me/iptv.php?id=0vvi0o&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="CH 8 (HD)" group-title="HK",CH8
+https://smart.946985.filegear-sg.me/iptv.php?id=1a5k5s&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="CH U (HD)" group-title="HK",CHU
+https://smart.946985.filegear-sg.me/iptv.php?id=8tg6h5&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=vjq7xn&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=rorf8j&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="HK",无线新闻台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=swzkeb&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="HK",明珠台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=tcgw8a&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="HK",TVB PLUS_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=ckiwha&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="HK",ViuTV_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=jwh0s9&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="HK",ViuTVSix_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=echt5s&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",HOY资讯台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=a2ss7y&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="HK",TVB星河_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=3o5iwc&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",华丽翡翠台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=vple0w&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="HK",千禧经典台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=3eam72&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="HK",TVB娱乐新闻台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=0h07ka&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="HK",天映频道_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=mn03fc&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="HK",天映经典_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=cu647i&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="HK",爱奇艺_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=0kagum&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",八度空间_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=xjrnya&token=tg_Thinkoo_bot
+#EXTINF:-1 group-title="HK",Astro欢喜台_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=22n7jb&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="AOD" group-title="HK",Astro AOD_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=qvu6zp&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="AEC" group-title="HK",Astro AEC_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=q6xqh8&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/qjs.png" group-title="HK",Astro QJ_SMT
+https://smart.946985.filegear-sg.me/iptv.php?id=34eeq4&token=tg_Thinkoo_bot
