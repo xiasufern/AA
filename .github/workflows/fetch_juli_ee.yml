@@ -35,16 +35,16 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 强制同步远程仓库，避免 push 冲突
           git fetch origin main
           git reset --hard origin/main
           git clean -fd
 
-          # 判断 EE.m3u 是否存在，避免报错
-          if [ -f "EE.m3u" ]; then
-            git add EE.m3u
-            git commit -m "Update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
-            git push origin main --force
-          else
-            echo "⚠️ EE.m3u not found, skipping commit."
+          # 确保 EE.m3u 存在，如果不存在创建空文件
+          if [ ! -f "EE.m3u" ]; then
+            touch EE.m3u
           fi
+
+          # 强制提交，即使内容没变化
+          git add EE.m3u
+          git commit --allow-empty -m "Update EE.m3u (strict JULI → HK)"
+          git push origin main --force
