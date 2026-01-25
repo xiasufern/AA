@@ -4,7 +4,7 @@ from datetime import datetime
 
 # JULI Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-EE_FILE = "EE.m3u"   # 改名为 EE.m3u
+EE_FILE = "EE.m3u"  # 输出文件名
 
 def fetch(url):
     r = requests.get(url, timeout=20)
@@ -15,13 +15,13 @@ def extract_strict_juli(text):
     lines = text.splitlines()
     juli_lines = []
     capture = False
-    现在_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")  # UTC 时间戳
 
     for line in lines:
         # 只抓 group-title="JULI" 的条目
         if line.startswith("#EXTINF:") and re.search(r'group-title=["\']JULI["\']', line, re.IGNORECASE):
             capture = True
-            # 替换为 HK，并在频道名称后加时间戳
             line = re.sub(r'group-title=["\'].*?["\']', 'group-title="HK"', line)
             line += f' [{now_str}]'
             juli_lines.append(line)
