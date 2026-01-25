@@ -1,58 +1,45 @@
 import requests
-import re
-from datetime import datetime
-import os
 
-# Worker URL
-JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-EE_FILE = "EE.m3u"
-
-def fetch(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/114.0.0.0 Safari/537.36",
-        "Accept": "*/*",
-    }
-    try:
-        r = requests.get(url, headers=headers, timeout=20)
-        r.raise_for_status()
-        return r.text
-    except Exception as e:
-        print(f"⚠️ Fetch failed: {e}")
-        return ""
-
-def extract_strict_juli(text):
-    lines = text.splitlines()
-    juli_lines = []
-    capture = False
-    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-
-    for line in lines:
-        if line.startswith("#EXTINF:") and re.search(r'group-title=["\']JULI["\']', line, re.IGNORECASE):
-            capture = True
-            line = re.sub(r'group-title=["\'].*?["\']', 'group-title="HK"', line)
-            line += f' [{now_str}]'
-            juli_lines.append(line)
-            continue
-        if capture and line.strip() != "":
-            juli_lines.append(line)
-            capture = False
-
-    return "\n".join(juli_lines)
+SOURCE_URL = "https://smt-proxy.sufern001.workers.dev/"
+OUT_FILE = "EE.m3u"
 
 def main():
-    print("[+] Fetch JULI subscription")
-    juli_raw = fetch(JULI_SUB_URL)
-    if not juli_raw.strip():
-        print("⚠️ JULI source empty, EE.m3u will be empty")
-    juli_only = extract_strict_juli(juli_raw)
+    r = requests.get(
+        SOURCE_URL,
+        timeout=20,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "*/*"
+        }
+    )
+    r.raise_for_status()
+    text = r.text
 
-    # 覆盖写入 EE.m3u
-    with open(EE_FILE, "w", encoding="utf-8") as f:
-        f.write(juli_only + "\n")
+    lines = text.splitlines()
+    out = ["#EXTM3U"]
 
-    print(f"[✓] EE.m3u generated (strict JULI → HK, overwrite)")
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        # 只要 JULI
+        if line.startswith("#EXTINF") and 'group-title="JULI"' in line:
+            # 改分组为 HK
+            line = line.replace('group-title="JULI"', 'group-title="HK"')
+            out.append(line)
+
+            # 下一行一定是播放地址
+            if i + 1 < len(lines):
+                out.append(lines[i + 1].strip())
+            i += 2
+        else:
+            i += 1
+
+    # 覆盖写入
+    with open(OUT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(out) + "\n")
+
+    print(f"[OK] 写入 {OUT_FILE}，频道数：{(len(out)-1)//2}")
 
 if __name__ == "__main__":
     main()
