@@ -1,36 +1,34 @@
 name: Merge JULI to DD
 
-# 每天凌晨 3 点自动跑，同时保留手动触发
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"  # UTC 时间，每天 3:00 自动跑，换算成北京时间 +8 时差就是每天 11:00
+    - cron: "0 3 * * *"  # UTC，每天 3:00（北京时间 11:00）
+
+permissions:
+  contents: write  # ✅ 关键：允许 workflow 推送文件
 
 jobs:
   merge:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ 拉取仓库
       - uses: actions/checkout@v4
 
-      # 2️⃣ 安装 Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3️⃣ 安装依赖
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # 4️⃣ 运行合并脚本
       - name: Run merge script
         run: python merge_juli_to_dd.py
 
-      # 5️⃣ 自动提交 DD.m3u 回仓库
       - name: Commit DD.m3u
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate DD.m3u (JULI → HK)"
-          branch: main    # 如果你的默认分支是 master，请改成 master
-          file_pattern: "DD.m3u"  # 只提交 DD.m3u
+          branch: main
+          file_pattern: "DD.m3u"
+
