@@ -348,6 +348,12 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=01
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="HK",凤凰中文
+https://smart.946985.filegear-sg.me/iptv.php?id=97lf95&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="HK",凤凰资讯
+https://smart.946985.filegear-sg.me/iptv.php?id=wl0qan&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="HK",凤凰香港
+https://smart.946985.filegear-sg.me/iptv.php?id=i86gs8&token=tg_Thinkoo_bot
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台
 https://smart.946985.filegear-sg.me/iptv.php?id=35s6cg&token=tg_Thinkoo_bot
@@ -409,12 +415,6 @@ https://smart.946985.filegear-sg.me/iptv.php?id=6dqqkp&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=n0oo52&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="HK",第一财经
 https://smart.946985.filegear-sg.me/iptv.php?id=ihouu6&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="HK",凤凰资讯
-https://smart.946985.filegear-sg.me/iptv.php?id=wl0qan&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="HK",凤凰中文
-https://smart.946985.filegear-sg.me/iptv.php?id=97lf95&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="HK",凤凰香港
-https://smart.946985.filegear-sg.me/iptv.php?id=i86gs8&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="HK",龙华电影
 https://smart.946985.filegear-sg.me/iptv.php?id=ffr15u&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="龙华经典HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="HK",龙华经典
@@ -501,3 +501,4 @@ https://smart.946985.filegear-sg.me/iptv.php?id=qvu6zp&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=q6xqh8&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/qjs.png" group-title="HK",Astro QJ_SMT
 https://smart.946985.filegear-sg.me/iptv.php?id=34eeq4&token=tg_Thinkoo_bot
+
