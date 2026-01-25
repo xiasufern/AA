@@ -354,6 +354,14 @@ https://smart.946985.filegear-sg.me/iptv.php?id=97lf95&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=wl0qan&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="HK",凤凰香港
 https://smart.946985.filegear-sg.me/iptv.php?id=i86gs8&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="HK",NOW新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=8w8gh9&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="HK",NOW星影
+https://smart.946985.filegear-sg.me/iptv.php?id=awlcvu&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="NOW 爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="HK",NOW爆谷
+https://smart.946985.filegear-sg.me/iptv.php?id=8pepyn&token=tg_Thinkoo_bot
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="HK",ViuTV
+https://smart.946985.filegear-sg.me/iptv.php?id=8pkq72&token=tg_Thinkoo_bot
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" catchup="append" catchup-source="?utcstart={utc}&utcend={utcend}"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="HK",翡翠台
 https://smart.946985.filegear-sg.me/iptv.php?id=35s6cg&token=tg_Thinkoo_bot
@@ -379,14 +387,6 @@ https://smart.946985.filegear-sg.me/iptv.php?id=wiygm3&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=5zeh5b&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="HOY剧集台" group-title="HK",HOY剧集台
 https://smart.946985.filegear-sg.me/iptv.php?id=c5so3n&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="HK",ViuTV
-https://smart.946985.filegear-sg.me/iptv.php?id=8pkq72&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="HK",NOW新闻台
-https://smart.946985.filegear-sg.me/iptv.php?id=8w8gh9&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="HK",NOW星影
-https://smart.946985.filegear-sg.me/iptv.php?id=awlcvu&token=tg_Thinkoo_bot
-#EXTINF:-1 tvg-name="NOW 爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="HK",NOW爆谷
-https://smart.946985.filegear-sg.me/iptv.php?id=8pepyn&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="TV 31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="HK",RTHK31
 https://smart.946985.filegear-sg.me/iptv.php?id=849xm7&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="TV 32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="HK",RTHK32
@@ -501,4 +501,5 @@ https://smart.946985.filegear-sg.me/iptv.php?id=qvu6zp&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=q6xqh8&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/qjs.png" group-title="HK",Astro QJ_SMT
 https://smart.946985.filegear-sg.me/iptv.php?id=34eeq4&token=tg_Thinkoo_bot
+
 
