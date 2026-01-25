@@ -1,47 +1,53 @@
-import requests
-import os
+name: Merge JULI to DD
 
-# 你的 Workers URL
-JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
+# 每天自动跑 + 手动触发
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"  # UTC 时间每天 3:00（北京时间 11:00）
 
-# BB.m3u 仓库原文件
-BB_URL = "https://raw.githubusercontent.com/xiasufern/AA/main/BB.m3u"
+permissions:
+  contents: write  # 允许提交文件
 
-def fetch(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "*/*",
-        "Referer": "https://google.com"
-    }
-    r = requests.get(url, headers=headers, timeout=20)
-    r.raise_for_status()
-    return r.text
+jobs:
+  merge:
+    runs-on: ubuntu-latest
 
-def extract_juli_channels(juli_text):
-    lines = juli_text.splitlines()
-    new_lines = []
-    for line in lines:
-        if line.startswith("#EXTINF:"):
-            line = line.replace('group-title=""', 'group-title="HK"')
-        new_lines.append(line)
-    return "\n".join(new_lines)
+    steps:
+      # 1️⃣ 拉取仓库
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-def main():
-    print("[+] Fetch JULI subscription")
-    juli_raw = fetch(JULI_SUB_URL)
-    juli_content = extract_juli_channels(juli_raw)
+      # 2️⃣ 安装 Python
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    print("[+] Fetch BB.m3u")
-    bb_raw = fetch(BB_URL)
+      # 3️⃣ 安装依赖
+      - name: 安装依赖
+        run: pip install -r requirements.txt
 
-    merged_content = bb_raw + "\n" + juli_content
+      # 4️⃣ 运行合并脚本
+      - name: 运行合并脚本
+        run: python merge_juli_to_dd.py
 
-    # 确保在当前目录生成 DD.m3u
-    dd_path = os.path.join(os.getcwd(), "DD.m3u")
-    with open(dd_path, "w", encoding="utf-8") as f:
-        f.write(merged_content)
+      # 5️⃣ 提交 DD.m3u
+      - name: 提交 DD.m3u
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-    print("[✓] Generated DD.m3u at:", dd_path)
+          # 拉取远程更新并变基
+          git pull --rebase origin main
 
-if __name__ == "__main__":
-    main()
+          # 添加 DD.m3u
+          git add DD.m3u
+
+          # 提交更改（如果有）
+          git diff --cached --exit-code || git commit -m "Generate DD.m3u (JULI → HK)"
+
+          # 推送到远程仓库
+          git push origin main
