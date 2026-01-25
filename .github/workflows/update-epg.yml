@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"  # 每天 UTC 3 点触发
   workflow_dispatch:
 
 jobs:
@@ -18,17 +18,19 @@ jobs:
         with:
           python-version: "3.11"
 
+      # 下载 pp.xml
       - name: Download pp.xml
         run: curl -o pp.xml https://epg.112114.xyz/pp.xml
 
-      - name: Download and unzip t.xml.gz
-        run: |
-          curl -o t.xml.gz https://epg.946985.filegear-sg.me/t.xml.gz
-          gunzip -f t.xml.gz
+      # 下载 t.xml（直接保存，不解压）
+      - name: Download t.xml
+        run: curl -o t.xml https://epg.946985.filegear-sg.me/t.xml.gz
 
+      # 运行合并脚本
       - name: Merge EPG files
         run: python update_epg.py
 
+      # 提交并推送更新
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
