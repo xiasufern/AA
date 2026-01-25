@@ -39,7 +39,7 @@ jobs:
           git reset --hard origin/main
           git clean -fd
 
-          # 确保 EE.m3u 存在，如果不存在创建空文件
+          # 确保 EE.m3u 存在
           if [ ! -f "EE.m3u" ]; then
             touch EE.m3u
           fi
