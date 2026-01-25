@@ -1,6 +1,5 @@
 name: Update EPG
 
-# 触发条件：每天 UTC 3 点，或者手动触发
 on:
   schedule:
     - cron: "0 3 * * *"
@@ -11,25 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ 拉取仓库
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ 安装 Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      # 3️⃣ 安装依赖（如果有的话）
-      - name: Install dependencies
-        run: pip install -r requirements.txt || echo "No requirements"
+      - name: Download pp.xml
+        run: curl -o pp.xml https://epg.112114.xyz/pp.xml
 
-      # 4️⃣ 运行你的 EPG 合并脚本
+      - name: Download and unzip t.xml.gz
+        run: |
+          curl -o t.xml.gz https://epg.946985.filegear-sg.me/t.xml.gz
+          gunzip -f t.xml.gz
+
       - name: Merge EPG files
         run: python update_epg.py
 
-      # 5️⃣ 提交并推送更新
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
