@@ -4,7 +4,7 @@ from datetime import datetime
 
 # JULI Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-DD_FILE = "DD.m3u"
+EE_FILE = "EE.m3u"   # 改名为 EE.m3u
 
 def fetch(url):
     r = requests.get(url, timeout=20)
@@ -15,7 +15,7 @@ def extract_strict_juli(text):
     lines = text.splitlines()
     juli_lines = []
     capture = False
-    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")  # UTC 时间戳
+    now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     for line in lines:
         # 只抓 group-title="JULI" 的条目
@@ -40,11 +40,11 @@ def main():
     juli_raw = fetch(JULI_SUB_URL)
     juli_only = extract_strict_juli(juli_raw)
 
-    # 覆盖写入 DD.m3u
-    with open(DD_FILE, "w", encoding="utf-8") as f:
+    # 覆盖写入 EE.m3u
+    with open(EE_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
-    print(f"[✓] Generated {DD_FILE} (strict JULI → HK, overwrite)")
+    print(f"[✓] Generated {EE_FILE} (strict JULI → HK, overwrite)")
 
 if __name__ == "__main__":
     main()
