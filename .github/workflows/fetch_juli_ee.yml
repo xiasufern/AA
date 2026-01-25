@@ -30,7 +30,7 @@ jobs:
       - name: Generate EE.m3u (strict JULI → HK, overwrite)
         run: python merge_juli_to_ee.py
 
-      - name: Commit EE.m3u (force overwrite)
+      - name: Force commit EE.m3u
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
@@ -44,7 +44,7 @@ jobs:
             touch EE.m3u
           fi
 
-          # 强制提交，即使内容没变化
-          git add EE.m3u
-          git commit --allow-empty -m "Update EE.m3u (strict JULI → HK)"
+          # 强制 add + commit + push
+          git add -f EE.m3u
+          git commit -m "Force update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
           git push origin main --force
