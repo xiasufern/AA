@@ -1,26 +1,39 @@
-      - name: Download EPGs
-        run: |
-          curl -L \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Referer: https://epg.946985.filegear-sg.me/" \
-            -o pp.xml \
-            https://epg.112114.xyz/pp.xml
+name: Update EPG
 
-          curl -L \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Referer: https://epg.946985.filegear-sg.me/" \
-            -o t.xml.gz \
-            https://epg.946985.filegear-sg.me/t.xml.gz
+# 触发条件：每天 UTC 3 点，或者手动触发
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
-          gunzip -f t.xml.gz
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-      - name: Merge EPG
+    steps:
+      # 1️⃣ 拉取仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ 安装 Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      # 3️⃣ 安装依赖（如果有的话）
+      - name: Install dependencies
+        run: pip install -r requirements.txt || echo "No requirements"
+
+      # 4️⃣ 运行你的 EPG 合并脚本
+      - name: Merge EPG files
         run: python update_epg.py
 
-      - name: Commit and push
+      # 5️⃣ 提交并推送更新
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add epg-all.xml
-          git commit -m "Auto update epg-all.xml" || echo "No changes"
+          git commit -m "Update merged EPG" || echo "No changes to commit"
           git push
