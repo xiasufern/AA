@@ -2,7 +2,7 @@ import requests
 import base64
 import re
 
-JULI_SUB_URL = "smt-proxy.sufern001.workers.dev"
+JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
 BB_URL = "https://raw.githubusercontent.com/xiasufern/AA/main/BB.m3u"
 
 OUTPUT_FILE = "DD.m3u"
