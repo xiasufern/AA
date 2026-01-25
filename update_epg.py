@@ -1,18 +1,48 @@
-import gzip
-import xml.etree.ElementTree as ET
+name: Update EPG
 
-tv = ET.Element("tv")
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 每天 UTC 3 点触发
+  workflow_dispatch:       # 支持手动触发
 
-for f in ("pp.xml", "t.xml"):
-    tree = ET.parse(f)
-    root = tree.getroot()
-    for child in root:
-        tv.append(child)
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-ET.ElementTree(tv).write(
-    "epg-all.xml",
-    encoding="utf-8",
-    xml_declaration=True
-)
+    steps:
+      # 1️⃣ 拉取仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-print("EPG merged")
+      # 2️⃣ 安装 Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      # 3️⃣ 安装依赖（可选）
+      - name: Install dependencies
+        run: pip install -r requirements.txt || echo "No requirements"
+
+      # 4️⃣ 下载 pp.xml
+      - name: Download pp.xml
+        run: curl -o pp.xml https://epg.112114.xyz/pp.xml
+
+      # 5️⃣ 下载 t.xml.gz 并解压为 t.xml
+      - name: Download and unzip t.xml.gz
+        run: |
+          curl -o t.xml.gz https://epg.946985.filegear-sg.me/t.xml.gz
+          gunzip -f t.xml.gz
+
+      # 6️⃣ 运行你的 EPG 合并脚本
+      - name: Merge EPG files
+        run: python update_epg.py
+
+      # 7️⃣ 提交并推送更新
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add epg-all.xml
+          git commit -m "Update merged EPG" || echo "No changes to commit"
+          git push
