@@ -37,10 +37,9 @@ def extract_strict_juli(text):
             juli_lines.append(line)
             continue
 
-        # URL 行，只有 capture=True 且包含 JULI 特征才抓
+        # URL 行，只有 capture=True 才抓
         if capture and line.strip() != "":
-            if 'jackstar.php' in line or 'tg_Thinkoo_bot' in line:
-                juli_lines.append(line)
+            juli_lines.append(line)
             capture = False
 
     return "\n".join(juli_lines)
