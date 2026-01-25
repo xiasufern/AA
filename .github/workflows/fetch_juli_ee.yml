@@ -40,6 +40,11 @@ jobs:
           git reset --hard origin/main
           git clean -fd
 
-          git add EE.m3u
-          git commit -m "Update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
-          git push origin main --force
+          # 判断 EE.m3u 是否存在，避免报错
+          if [ -f "EE.m3u" ]; then
+            git add EE.m3u
+            git commit -m "Update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
+            git push origin main --force
+          else
+            echo "⚠️ EE.m3u not found, skipping commit."
+          fi
