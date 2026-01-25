@@ -1,11 +1,10 @@
-name: Fetch JULI DD.m3u
+name: Fetch Strict JULI DD.m3u
 
 on:
   workflow_dispatch:
   schedule:
-    # UTC 时间对应北京时间 6:00、18:00
-    - cron: "0 22 * * *"  # 北京时间 6:00
-    - cron: "0 10 * * *"  # 北京时间 18:00
+    - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
+    - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
 
 permissions:
   contents: write
@@ -28,7 +27,7 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Generate DD.m3u (only JULI → HK)
+      - name: Generate DD.m3u (strict JULI → HK)
         run: python merge_juli_to_dd.py
 
       - name: Commit DD.m3u
@@ -40,5 +39,5 @@ jobs:
           git clean -fd
           git pull --rebase origin main
           git add DD.m3u
-          git diff --cached --exit-code || git commit -m "Update DD.m3u (only JULI → HK)"
+          git diff --cached --exit-code || git commit -m "Update DD.m3u (strict JULI → HK)"
           git push origin main
