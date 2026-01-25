@@ -35,7 +35,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 强制同步远程仓库，确保覆盖提交
+          # 强制同步远程仓库，避免 push 冲突
           git fetch origin main
           git reset --hard origin/main
           git clean -fd
