@@ -4,12 +4,16 @@ from datetime import datetime
 
 # JULI Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
-EE_FILE = "EE.m3u"  # 输出文件名
+EE_FILE = "EE.m3u"   # 输出文件名
 
 def fetch(url):
-    r = requests.get(url, timeout=20)
-    r.raise_for_status()
-    return r.text
+    try:
+        r = requests.get(url, timeout=20)
+        r.raise_for_status()
+        return r.text
+    except Exception as e:
+        print(f"⚠️ Fetch failed: {e}")
+        return ""  # 返回空字符串，保证脚本不会报错
 
 def extract_strict_juli(text):
     lines = text.splitlines()
@@ -40,7 +44,7 @@ def main():
     juli_raw = fetch(JULI_SUB_URL)
     juli_only = extract_strict_juli(juli_raw)
 
-    # 覆盖写入 EE.m3u
+    # 覆盖写入 EE.m3u，如果没有抓到也写空文件
     with open(EE_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
