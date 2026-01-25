@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/xiasufern/AA/main/epg-all.xml"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV1.png" group-title="央视",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469?virtualDomain=010.live_hls.zte.com
@@ -391,6 +391,7 @@ https://smart.946985.filegear-sg.me/iptv.php?id=qvu6zp&token=tg_Thinkoo_bot
 https://smart.946985.filegear-sg.me/iptv.php?id=q6xqh8&token=tg_Thinkoo_bot
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/qjs.png" group-title="HK",Astro QJ_SMT
 https://smart.946985.filegear-sg.me/iptv.php?id=34eeq4&token=tg_Thinkoo_bot
+
 
 
 
