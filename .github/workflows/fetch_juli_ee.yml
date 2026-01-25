@@ -1,7 +1,7 @@
 name: Fetch Strict JULI EE.m3u
 
 on:
-  workflow_dispatch:    # 手动触发
+  workflow_dispatch:  # 手动触发
   schedule:
     - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
     - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
@@ -27,7 +27,7 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Generate EE.m3u (strict JULI → HK, overwrite)
+      - name: Generate EE.m3u (strict JULI → HK)
         run: python merge_juli_to_ee.py
 
       - name: Force commit EE.m3u
@@ -39,12 +39,11 @@ jobs:
           git reset --hard origin/main
           git clean -fd
 
-          # 确保 EE.m3u 存在
+          # 确保 EE.m3u 在根目录
           if [ ! -f "EE.m3u" ]; then
             touch EE.m3u
           fi
 
-          # 强制 add + commit + push
           git add -f EE.m3u
           git commit -m "Force update EE.m3u (strict JULI → HK)" || echo "No changes to commit"
           git push origin main --force
