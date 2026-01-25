@@ -17,11 +17,18 @@ def is_base64(s: str) -> bool:
     except Exception:
         return False
 
-
 def fetch(url: str) -> str:
-    r = requests.get(url, timeout=20)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Referer": "https://google.com"
+    }
+    r = requests.get(url, headers=headers, timeout=20)
     r.raise_for_status()
     return r.text.strip()
+
 
 
 def decode_sub(content: str) -> str:
