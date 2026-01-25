@@ -1,59 +1,44 @@
 name: Fetch JULI DD.m3u
 
-# 每天自动运行 + 手动触发
 on:
   workflow_dispatch:
   schedule:
-    # UTC 时间，对应北京时间 6:00、18:00
-    - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
-    - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
+    # UTC 时间对应北京时间 6:00、18:00
+    - cron: "0 22 * * *"  # 北京时间 6:00
+    - cron: "0 10 * * *"  # 北京时间 18:00
 
 permissions:
-  contents: write  # 允许提交文件
+  contents: write
 
 jobs:
   fetch_juli:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ 拉取仓库
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # 2️⃣ 安装 Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3️⃣ 安装依赖
-      - name: Install dependencies
+      - name: Install requests
         run: pip install requests
 
-      # 4️⃣ 运行 Python 脚本
-      - name: Generate DD.m3u
+      - name: Generate DD.m3u (only JULI → HK)
         run: python merge_juli_to_dd.py
 
-      # 5️⃣ 提交 DD.m3u
       - name: Commit DD.m3u
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 清理工作区，避免 pull 出错
           git reset --hard
           git clean -fd
-
-          # 拉取远程 main 并变基
           git pull --rebase origin main
-
-          # 添加 DD.m3u
           git add DD.m3u
-
-          # 提交更改（如果有）
-          git diff --cached --exit-code || git commit -m "Update DD.m3u (JULI → HK)"
-
-          # 推送
+          git diff --cached --exit-code || git commit -m "Update DD.m3u (only JULI → HK)"
           git push origin main
