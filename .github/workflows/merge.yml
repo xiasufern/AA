@@ -3,7 +3,7 @@ name: Merge JULI to DD
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"  # UTC，每天 3:00 自动跑（北京时间 11:00）
+    - cron: "0 3 * * *"  # UTC 每天 3:00（北京时间 11:00）
 
 permissions:
   contents: write  # 允许 workflow 提交文件
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # ✅ 关键：允许后续 push
+          persist-credentials: true
 
       # 2️⃣ 安装 Python
       - name: Setup Python
@@ -33,14 +33,20 @@ jobs:
       - name: Run merge script
         run: python merge_juli_to_dd.py
 
-      # 5️⃣ 检查是否有变动
-      - name: Check changes
+      # 5️⃣ 查看生成文件
+      - name: List files
+        run: ls -al
+
+      # 6️⃣ 提交 DD.m3u（如果生成了）
+      - name: Commit DD.m3u
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add DD.m3u
-          git diff --cached --exit-code || git commit -m "Generate DD.m3u (JULI → HK)"
-
-      # 6️⃣ 推送回仓库
-      - name: Push changes
-        run: git push
+          if [ -f "DD.m3u" ]; then
+              git add DD.m3u
+              git diff --cached --exit-code || git commit -m "Generate DD.m3u (JULI → HK)"
+              git push
+          else
+              echo "❌ DD.m3u not found!"
+              exit 1
+          fi
