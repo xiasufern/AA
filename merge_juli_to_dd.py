@@ -40,10 +40,11 @@ def main():
     juli_raw = fetch(JULI_SUB_URL)
     juli_only = extract_strict_juli(juli_raw)
 
+    # 覆盖写入 DD.m3u
     with open(DD_FILE, "w", encoding="utf-8") as f:
         f.write(juli_only + "\n")
 
-    print(f"[✓] Generated {DD_FILE} (strict JULI → HK with timestamp)")
+    print(f"[✓] Generated {DD_FILE} (strict JULI → HK, overwrite)")
 
 if __name__ == "__main__":
     main()
