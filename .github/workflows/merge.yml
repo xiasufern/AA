@@ -3,6 +3,7 @@ name: Fetch Strict JULI DD.m3u
 on:
   workflow_dispatch:
   schedule:
+    # UTC 时间对应北京时间 6:00、18:00
     - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
     - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
 
