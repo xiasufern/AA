@@ -3,7 +3,6 @@ name: Fetch Strict JULI DD.m3u
 on:
   workflow_dispatch:    # 手动触发
   schedule:
-    # UTC 时间对应北京时间 6:00、18:00
     - cron: "0 22 * * *"  # UTC 22:00 = 北京时间 6:00
     - cron: "0 10 * * *"  # UTC 10:00 = 北京时间 18:00
 
@@ -31,16 +30,16 @@ jobs:
       - name: Generate DD.m3u (strict JULI → HK, overwrite)
         run: python merge_juli_to_dd.py
 
-      - name: Commit DD.m3u
+      - name: Commit DD.m3u (force overwrite)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 清理未提交文件，确保覆盖提交
-          git reset --hard
+          # 强制同步远程仓库，确保覆盖提交
+          git fetch origin main
+          git reset --hard origin/main
           git clean -fd
-          git pull --rebase origin main
 
           git add DD.m3u
-          git diff --cached --exit-code || git commit -m "Update DD.m3u (strict JULI → HK)"
-          git push origin main
+          git commit -m "Update DD.m3u (strict JULI → HK)" || echo "No changes to commit"
+          git push origin main --force
