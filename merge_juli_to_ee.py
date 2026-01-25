@@ -1,6 +1,7 @@
 import requests
 import re
 from datetime import datetime
+import os
 
 # JULI Worker URL
 JULI_SUB_URL = "https://smt-proxy.sufern001.workers.dev"
