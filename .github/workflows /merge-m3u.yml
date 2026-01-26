@@ -1,0 +1,90 @@
+name: 自动合并M3U（使用Cloudflare代理）
+
+on:
+  # 手动触发
+  workflow_dispatch:
+  
+  # 定时触发：北京时间 06:00 和 18:00
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 = 北京时间 06:00
+    - cron: '0 10 * * *'  # UTC 10:00 = 北京时间 18:00
+  
+  # 当脚本更新时也触发
+  push:
+    paths:
+      - 'scripts/merge_from_proxy.py'
+      - '.github/workflows/merge-m3u.yml'
+
+jobs:
+  merge-m3u:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 检出代码
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: 🐍 设置Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: 📦 安装依赖
+      run: |
+        pip install requests beautifulsoup4
+    
+    - name: 🚀 运行合并脚本
+      run: |
+        echo "开始运行合并脚本..."
+        python scripts/merge_from_proxy.py
+        
+        echo -e "\n=== 检查生成的文件 ==="
+        if [ -f "CC.m3u" ]; then
+          echo "✅ CC.m3u 已生成"
+          echo "文件大小: $(wc -c < CC.m3u) 字节"
+          echo "行数: $(wc -l < CC.m3u)"
+          echo -e "\n前5行内容:"
+          head -5 CC.m3u
+          echo "..."
+        else
+          echo "❌ CC.m3u 未生成"
+          exit 1
+        fi
+    
+    - name: 📤 提交文件
+      run: |
+        # 配置Git
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 检查CC.m3u是否存在
+        if [ -f "CC.m3u" ]; then
+          echo "准备提交CC.m3u..."
+          
+          # 添加文件
+          git add CC.m3u
+          
+          # 检查是否有变化
+          if git diff --cached --quiet; then
+            echo "📭 文件无变化，无需提交"
+          else
+            # 提交并推送
+            git commit -m "🤖 自动更新 CC.m3u [$(date +'%Y-%m-%d %H:%M')]"
+            git push
+            echo "✅ 提交完成"
+          fi
+        else
+          echo "❌ CC.m3u不存在，无法提交"
+          exit 1
+        fi
+    
+    - name: 📊 输出结果
+      run: |
+        echo "=== 运行完成 ==="
+        echo "📅 时间: $(date)"
+        echo "🔗 代理地址: https://smt-proxy.sufern001.workers.dev/"
+        echo "📁 生成文件: CC.m3u"
+        echo "🌐 访问链接:"
+        echo "  - GitHub: https://github.com/${{ github.repository }}/blob/main/CC.m3u"
+        echo "  - Raw: https://raw.githubusercontent.com/${{ github.repository }}/main/CC.m3u"
