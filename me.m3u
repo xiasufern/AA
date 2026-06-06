@@ -320,6 +320,7 @@ http://192.168.100.1:50009/litv-xinchuang18/index.m3u8?token=jRmmtB889ejTiLJ1DI9
 http://192.168.100.1:50009/litv-xinchuang21/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 
 #=============DOC=====================================================================================
+
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/LOVENARURE4K.png" group-title="Discovery",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE " tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/LOVENATURE.png" group-title="Discovery",LOVE NATURE 愛自然頻道
@@ -343,13 +344,13 @@ http://192.168.100.1:10801/4gtv-live011/index.m3u8?token=joker
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/五星体育.png" group-title="Sports",五星体育
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="Sports",愛爾達體育1台
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/a1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/ch/ffeb756598476894e6ddf7c5fc50ab7a/master.m3u8
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="Sports",愛爾達體育2台
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/a2.png" group-title="Sports",愛爾達體育2台
 https://iptv.852851.xyz/ch/e63e8dc3873be03fc88c91ffb4442edc/master.m3u8
-#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="Sports",愛爾達體育3台
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/a3.png" group-title="Sports",愛爾達體育3台
 https://iptv.852851.xyz/ch/ec00f2bfa8c90dc4c3d3f241dbd2bba9/master.m3u8
-#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/ELTA4.png" group-title="Sports",愛爾達體育4台
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/a4" group-title="Sports",愛爾達體育4台
 https://iptv.852851.xyz/ch/a562b2387d195b4b3828f48a3ba9ecbf/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
