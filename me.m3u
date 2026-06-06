@@ -96,8 +96,6 @@ https://o11.163189.xyz/stream/live/tvbc/
 https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
 #EXTINF:-1 tvg-id="LSTIME" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="HK",龙祥时代
 https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
-#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.yang-1989.eu.org/logo/Now Sports 精選.png" group-title="HK",Now Sports 精選
-https://cdn.19891230.eu.org/hk/now-630/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="HK",ViuTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
 https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
@@ -374,7 +372,8 @@ https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
 https://iptv.852851.xyz/ch/7fb12e9f9ce6696478dadea629117325/master.m3u8
 #EXTINF:-1 tvg-name="Now Sports 4K 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NOW体育4K 1
 https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
-
+#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.yang-1989.eu.org/logo/Now Sports 精選.png" group-title="Sports",Now Sports 精選
+https://cdn.19891230.eu.org/hk/now-630/index.m3u8
 #EXTINF:-1 tvg-name="Now Sports 英超1台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="Sports",NOW英超1
 https://iptv.852851.xyz/ch/7dc276234091f4819657c1514084bf42/master.m3u8
 #EXTINF:-1 tvg-name="Now Sports 英超2台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122" group-title="Sports",NOW英超2
