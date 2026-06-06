@@ -197,8 +197,6 @@ http://192.168.100.1:50009/4gtv-live168/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOf
 http://192.168.100.1:10801/4gtv-4gtv073/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="TW",民視綜藝
 http://192.168.100.1:10801/4gtv-4gtv004/index.m3u8?token=joker
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="TW",靖天育樂
-http://192.168.100.1:50009/4gtv-4gtv062/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="TW",KLT-靖天國際台
 http://192.168.100.1:50009/4gtv-4gtv063/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="NICETV靖天歡樂台" tvg-name="NICETV靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="TW",NICE TV 靖天歡樂台
@@ -342,6 +340,10 @@ https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
 http://192.168.100.1:10801/4gtv-live011/index.m3u8?token=joker
 
 #=============Sports=====================================================================================
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/五星体育.png" group-title="Sports",五星体育
+https://cdn15.163189.xyz/163189/wxty
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://epg.112114.xyz/logo/ESPN2.png" group-title="Sports",ESPN2
