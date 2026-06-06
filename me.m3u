@@ -140,6 +140,7 @@ http://cdn6.163189.xyz/163189/ch
 
 #=============TW=====================================================================================
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="TW",中天新聞台
+http://192.168.100.1:10801/4gtv-4gtv009/index.m3u8?token=joker
 http://192.168.100.1:50009/4gtv-4gtv009/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="TW",中視新聞
 http://192.168.100.1:50009/4gtv-live474/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
