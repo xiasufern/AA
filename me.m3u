@@ -92,7 +92,7 @@ https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
 https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="HK",千禧經典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="星河頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="HK",星河頻道
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="星河頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="HK",TVB 星河
 https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
 #EXTINF:-1 tvg-id="LSTIME" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="HK",龙祥时代
 https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
