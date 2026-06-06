@@ -294,11 +294,6 @@ http://192.168.100.1:50009/4gtv-4gtv017/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOf
 http://192.168.100.1:50009/4gtv-live069/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="TW",My Cinema Europe HD 我的歐洲電影
 http://192.168.100.1:50009/litv-ftv10/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="TW",FRANCE24 英文台
-http://192.168.100.1:50009/4gtv-live146/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="TW",CNBC Asia 財經台
-http://192.168.100.1:50009/4gtv-live130/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="TW",經典電影台
 http://192.168.100.1:50009/4gtv-live021/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="TW",經典卡通台
