@@ -149,63 +149,56 @@ http://192.168.100.1:50009/4gtv-live408/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOf
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="TW",華視新聞
 http://192.168.100.1:50009/4gtv-live452/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TW",TVBS新聞台
-http://192.168.100.1:50009/media-live072/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv072/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="TW",民視
 http://192.168.100.1:50009/4gtv-live215/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="TW",亞洲旅遊
-http://192.168.100.1:50009/4gtv-4gtv076/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv076/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="TW",華視
-http://192.168.100.1:50009/4gtv-4gtv041/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv041/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="TW",民視第一台
 http://192.168.100.1:50009/4gtv-live403/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="TW",寰宇新聞台灣台
+http://192.168.100.1:10801/4gtv-4gtv156/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="TW",民視台灣台
 http://192.168.100.1:50009/4gtv-live401/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="TW",中視
-http://192.168.100.1:50009/4gtv-4gtv040/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="TW",三立綜合台
 http://192.168.100.1:50009/4gtv-live207/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="TW",客家電視
-http://192.168.100.1:50009/4gtv-4gtv043/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="TW",八大綜藝
-http://192.168.100.1:50009/4gtv-4gtv039/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv043/index.m3u8?token=joker
+
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="TW",TVBS精采台
-http://192.168.100.1:50009/4gtv-4gtv067/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="TW",ELTA娛樂
-http://192.168.100.1:50009/4gtv-4gtv070/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="TW",靖天綜合
-http://192.168.100.1:50009/4gtv-4gtv046/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="TW",ARIRANG阿里郎頻道
-http://192.168.100.1:50009/4gtv-4gtv079/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv067/index.m3u8?token=joker
+
+
+
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="TW",Global Trekker
 http://192.168.100.1:50009/4gtv-live112/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="TW",原住民族電視台
-http://192.168.100.1:50009/4gtv-live014/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv080/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="TW",鏡電視新聞台
-http://192.168.100.1:50009/4gtv-4gtv075/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv075/index.m3u8?token=jok
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="TW",東森新聞
-http://192.168.100.1:50009/4gtv-4gtv152/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv152/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="TW",民視新聞
 http://192.168.100.1:50009/4gtv-live413/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="TW",三立新聞INEWS
 http://192.168.100.1:50009/4gtv-live089/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="TW",東森財經新聞
-http://192.168.100.1:50009/4gtv-4gtv153/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv153/index.m3u8?token=joker
 
 #EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="TW",BLOOMBERG TV
 http://192.168.100.1:50009/4gtv-live059/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="TW",寰宇新聞台灣台
-http://192.168.100.1:50009/4gtv-4gtv156/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="TW",SBN 全球財經台
 http://192.168.100.1:50009/4gtv-live060/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="TW",NHK 新聞資訊台
 http://192.168.100.1:50009/4gtv-live168/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="TW",TVBS
-http://192.168.100.1:50009/media-live073/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv073/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="TW",民視綜藝
-http://192.168.100.1:50009/4gtv-4gtv004/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="TW",豬哥亮歌廳秀
-http://192.168.100.1:50009/4gtv-4gtv006/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
+http://192.168.100.1:10801/4gtv-4gtv004/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="TW",靖天育樂
 http://192.168.100.1:50009/4gtv-4gtv062/index.m3u8?token=jRmmtB889ejTiLJ1DI9cmOfZiL3DHwLmFTAVAMGuZ7MEeR96ULAt0fyJFfe1dIjs
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="TW",KLT-靖天國際台
