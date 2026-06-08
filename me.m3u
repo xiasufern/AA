@@ -346,7 +346,7 @@ http://192.168.100.1:10801/4gtv-live011/index.m3u8?token=joker
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/五星体育.png" group-title="Sports",五星体育
 https://iptv.yang-1989.eu.org/kdf/1605
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/劲爆体育.png" group-title="Sports",劲爆体育
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/劲爆体育.png" group-title="Sports",劲爆体育
 http://173.208.212.130:8181/1080p/jbty.m3u8
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/a1.png" group-title="Sports",愛爾達體育1台
