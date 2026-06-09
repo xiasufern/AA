@@ -103,11 +103,11 @@ https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="HK",ViuTVsix
 https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY76.png" group-title="HK",HOY 國際財經台
-https://test.19891230.eu.org/hkg/hoy76/index.m3u8
+https://cdn.19891230.eu.org/hkg/hoy76/index.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY77.png" group-title="HK",HOY TV
-https://test.19891230.eu.org/hkg/hoy77/index.m3u8
+https://cdn.19891230.eu.org/hkg/hoy77/index.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY78.png" group-title="HK",HOY 資訊台
-https://test.19891230.eu.org/hkg/hoy78/index.m3u8
+https://cdn.19891230.eu.org/hkg/hoy78/index.m3u8
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK31.png" group-title="HK",RTHK 31
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK32.png" group-title="HK",RTHK 32
