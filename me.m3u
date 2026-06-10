@@ -348,7 +348,7 @@ http://192.168.100.1:38766/cctv5.m3u8
 http://192.168.100.1:38766/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV8K.png" group-title="Sports",CCTV8K
 http://192.168.100.1:38766/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16.png" group-title="Sports",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16.png" group-title="Sports",CCTV16
 http://192.168.100.1:38766/cctv164k.m3u8
 http://192.168.100.1:38766/cctv16.m3u8
 
