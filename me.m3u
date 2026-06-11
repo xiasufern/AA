@@ -374,9 +374,9 @@ https://iptv.852851.xyz/ch/9b3177b70b6b0b6714cdb20c4f6b3e41/master.m3u8
 #EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
 https://iptv.852851.xyz/ch/79054f6d9abe992b04bcd990c7703b22/raw
 #EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
-https://iptv.852851.xyz/ch/57bc06af604b15a16b5e6fbef286fe40/raw
+http://77.90.60.172:55555/1/video/index.m3u8
 #EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
-https://iptv.852851.xyz/ch/3319cd9908f0771d46f11f45aaa1465b/raw
+http://77.90.60.172:55555/3/video/index.m3u8
 
 
 
