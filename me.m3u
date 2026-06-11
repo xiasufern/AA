@@ -370,6 +370,17 @@ https://iptv.852851.xyz/ch/ab6c729302acedd02d30d8ecc70548b5/master.m3u8
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
 https://iptv.852851.xyz/ch/9b3177b70b6b0b6714cdb20c4f6b3e41/master.m3u8
 
+
+#EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
+https://iptv.852851.xyz/ch/79054f6d9abe992b04bcd990c7703b22/raw
+#EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
+https://iptv.852851.xyz/ch/57bc06af604b15a16b5e6fbef286fe40/raw
+#EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
+https://iptv.852851.xyz/ch/3319cd9908f0771d46f11f45aaa1465b/raw
+
+
+
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://epg.112114.xyz/logo/ESPN2.png" group-title="Sports",ESPN2
