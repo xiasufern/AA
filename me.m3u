@@ -361,23 +361,6 @@ https://iptv.yang-1989.eu.org/kdf/1605
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/劲爆体育.png" group-title="Sports",劲爆体育
 http://173.208.212.130:8181/1080p/jbty.m3u8
 
-#EXTINF:-1 tvg-id="Canadá v. Bosnia y Herzegovina" tvg-name="Canadá v. Bosnia y Herzegovina" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Canadá v. Bosnia y Herzegovina_2026-06-13 02:40:00_1781289600000
-http://173.208.212.130:8181/1080p/jbty.m3u8
-#EXTINF:-1 tvg-id="Estados Unidos v. Paraguay" tvg-name="Estados Unidos v. Paraguay" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Estados Unidos v. Paraguay_2026-06-13 08:40:00_1781311200000
-https://cdn.99998888.cc/event/8fdcde99-8f66-3e36-8b1e-715e49d0ad9a?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-id="Catar v. Suiza" tvg-name="Catar v. Suiza" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Catar v. Suiza_2026-06-14 02:40:00_1781376000000
-https://cdn.99998888.cc/event/d7a8572e-ccf3-38fd-8b64-dcf58f221009?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-id="Brasil v. Marruecos" tvg-name="Brasil v. Marruecos" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Brasil v. Marruecos_2026-06-14 05:10:00_1781385000000
-https://cdn.99998888.cc/event/de2cfe5e-04ba-3a05-bed7-aa773925ffa0?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-id="Haití v. Escocia" tvg-name="Haití v. Escocia" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Haití v. Escocia_2026-06-14 08:10:00_1781395800000
-https://cdn.99998888.cc/event/ec834533-c5b3-3bc8-bb32-93d79249051d?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-id="Australia v. Turquía" tvg-name="Australia v. Turquía" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2026.png" group-title="Sports",,Australia v. Turquía_2026-06-14 11:10:00_1781406600000
-https://cdn.99998888.cc/event/f582845b-3f4c-387f-90a2-4be7d6867f27?prefix=https://cdn.99998888.cc
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/ch/e5f1624b29f87221d5333ade40bc6d41/master.m3u8
