@@ -353,7 +353,9 @@ http://192.168.100.1:38766/cctv16.m3u8
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/广东体育.png" group-title="Sports",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-http://112.92.128.71:9003/hls/31/index.m3u8
+http://www.maomizi.cn:9530/rtp/239.77.0.112:5146
+http://yanshifen.top:8889/rtp/239.77.0.112:5146
+
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/五星体育.png" group-title="Sports",五星体育
 https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 https://cdn15.163189.xyz/163189/wxty
