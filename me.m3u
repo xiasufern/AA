@@ -380,6 +380,7 @@ https://iptv.852851.xyz/ch/ab6c729302acedd02d30d8ecc70548b5/master.m3u8
 https://iptv.852851.xyz/ch/9b3177b70b6b0b6714cdb20c4f6b3e41/master.m3u8
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
+http://kazimmt.ami.bd/playlist/wc.m3u
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 #EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
@@ -404,13 +405,10 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119666
 
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="Sports",beIN Sports 2 HD
 https://iptv.852851.xyz/ch/b8ba42b67d32355fa3f8856e241a821f/master.m3u8
-
 #EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="Sports",beIN Sports 3 HD
 https://iptv.852851.xyz/ch/c8b29185daab20843cbd5bce23d2fc88/master.m3u8
-
 #EXTINF:-1 tvg-id="329" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="Sports",beIN Sports 4 HD
 https://iptv.852851.xyz/ch/c369a1302d56a021e6161d1def2442ae/master.m3u8
-
 #EXTINF:-1 tvg-id="329" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="Sports",beIN Sports 5 HD
 https://iptv.852851.xyz/ch/b5e82affaf429453b7368d6848ad7cd8/master.m3u8
 
