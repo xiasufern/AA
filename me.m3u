@@ -343,10 +343,6 @@ https://cdn-1.ttvb.eu.org/api/BBC-Lifestyle/index.m3u8
 http://192.168.100.1:10801/4gtv-live011/index.m3u8?token=joker
 
 #=============Sports=====================================================================================
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/WC26.png" group-title="Sports",小红书
-http://192.168.100.1:34567/live/570318897942454877/1781408737530
-
-
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="Sports",CCTV5
 http://192.168.100.1:38766/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5+.png" group-title="Sports",CCTV5+
@@ -371,8 +367,8 @@ http://173.208.212.130:8181/1080p/jbty.m3u8
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 
-#EXTINF:-1 tvg-id="BBC 4K UK" tvg-name="BBC 4K UK" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/BBC.png" group-title="Sports",BBC 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+#EXTINF:-1 tvg-id="BBC UK" tvg-name="BBC UK" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/BBC.png" group-title="Sports", FUSSBALL 4K
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950356
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/ch/e5f1624b29f87221d5333ade40bc6d41/master.m3u8
