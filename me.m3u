@@ -365,7 +365,9 @@ http://173.208.212.130:8181/1080p/jbty.m3u8
 
 #EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2027.png" group-title="Sports",TSN 4K
 https://iptv.852851.xyz/ch/68e97c59f10d99489065f1e85c13a85b/master.m3u8
+#EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2027.png" group-title="Sports",TSN 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+#EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/2027.png" group-title="Sports",TSN 4K
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 
 
