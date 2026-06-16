@@ -323,7 +323,7 @@ http://173.208.212.130:8181/1080p/jbty.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TSN.png" group-title="Sports",TSN 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
-#EXTINF:-1 tvg-id="FUSSBALL.TV1" tvg-name="FUSSBALL.TV1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg" group-title="Sports",FUSSBALL.TV1 4K
+#EXTINF:-1 tvg-id="FUSSBALL.TV1" tvg-name="FUSSBALL.TV1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/222.png" group-title="Sports",FUSSBALL.TV1 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/ch/e5f1624b29f87221d5333ade40bc6d41/master.m3u8
