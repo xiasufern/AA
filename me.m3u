@@ -166,7 +166,7 @@ https://4gtv.158.qzz.io/163189/aecbd4e5-757e-45e7-a3a7-33f83efc98a5/
 https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 #EXTINF:-1 tvg-id="stream-cd3d7097-895c-47c8-8b43-4d22e758cf55" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/镜电视新闻.png" group-title="TW",鏡電視新聞台
 https://4gtv.158.qzz.io/163189/cd3d7097-895c-47c8-8b43-4d22e758cf55/
-#EXTINF:-1 tvg-id="stream-3d610e6d-aa4f-48bf-8516-eb823977d10f" tvg-name="三立綜合台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/三立综合.png" group-title="TW",三立綜合台
+#EXTINF:-1 tvg-id="stream-3d610e6d-aa4f-48bf-8516-eb823977d10f" tvg-name="三立綜合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/三立综合.png" group-title="TW",三立綜合台
 https://4gtv.158.qzz.io/163189/3d610e6d-aa4f-48bf-8516-eb823977d10f/
 #EXTINF:-1 tvg-id="stream-d8836828-137d-48d3-8c54-8291eedd9c9a" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/八大综艺.png" group-title="TW",八大綜藝台
 https://4gtv.158.qzz.io/163189/d8836828-137d-48d3-8c54-8291eedd9c9a/
@@ -174,8 +174,6 @@ https://4gtv.158.qzz.io/163189/d8836828-137d-48d3-8c54-8291eedd9c9a/
 https://4gtv.158.qzz.io/163189/acd6cbf9-8405-49c0-bf37-f7c620ccc391/
 #EXTINF:-1 tvg-id="stream-46bac370-f61c-446e-8eed-9b67ec322064" tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/靖天综合.png" group-title="TW",靖天綜合台
 https://4gtv.158.qzz.io/163189/46bac370-f61c-446e-8eed-9b67ec322064/
-#EXTINF:-1 tvg-id="stream-8e9f9872-a1f1-4276-a6ce-12a630f96f4c" tvg-name="原住民族電視台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/原住民族.png" group-title="TW",原住民族電視台
-https://4gtv.158.qzz.io/163189/8e9f9872-a1f1-4276-a6ce-12a630f96f4c/
 #EXTINF:-1 tvg-id="stream-98256d48-5a4f-4bd8-a5fe-d4abf0027819" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/东森新闻.png" group-title="TW",東森新聞台
 https://4g.158.qzz.io/163189/d7e9f69dcbba2a23
 #EXTINF:-1 tvg-id="stream-ca241422-9067-424c-bbd7-9aab4a6a39b0" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视新闻.png" group-title="TW",民視新聞台
@@ -194,25 +192,25 @@ https://4gtv.158.qzz.io/163189/0600b6ab-9b6a-4a64-836b-2f981cdd010e/
 https://4gtv.158.qzz.io/163189/1e0bdf17-436e-40d9-b442-ca3e2bf3d1db/
 #EXTINF:-1 tvg-id="stream-4ac19df8-b33e-4599-842e-ff4e2b8a6ec1" tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/ROCKENTERTAINMENT.png" group-title="TW",ROCK Entertainment
 https://4gtv.158.qzz.io/163189/4ac19df8-b33e-4599-842e-ff4e2b8a6ec1/
-#EXTINF:-1 tvg-id="stream-df9bc57b-b797-4ed4-bf25-d2e8b6064d74" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/LIFETIME.png" group-title="TW",Lifetime 娛樂頻道
+#EXTINF:-1 tvg-id="stream-df9bc57b-b797-4ed4-bf25-d2e8b6064d74" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/LIFETIME.png" group-title="TW",Lifetime 娛樂頻道
 https://4gtv.158.qzz.io/163189/df9bc57b-b797-4ed4-bf25-d2e8b6064d74/
-#EXTINF:-1 tvg-id="stream-4686f6c9-b849-408e-9936-5cab41fc07fa" tvg-name="智林體育台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/智林体育.png" group-title="TW",智林體育台
+#EXTINF:-1 tvg-id="stream-4686f6c9-b849-408e-9936-5cab41fc07fa" tvg-name="智林體育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/智林体育.png" group-title="TW",智林體育台
 https://4gtv.158.qzz.io/163189/4686f6c9-b849-408e-9936-5cab41fc07fa/
 #EXTINF:-1 tvg-id="stream-d1b273d2-cec3-4526-aadf-aefcea29787f" tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视旅游.png" group-title="TW",民視旅遊台
 https://4gtv.158.qzz.io/163189/d1b273d2-cec3-4526-aadf-aefcea29787f/
 #EXTINF:-1 tvg-id="stream-2e3ba7b4-9e33-4bda-acd2-b65b45f9cfc2" tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/亚洲旅游.png" group-title="TW",亞洲旅遊台
 https://4gtv.158.qzz.io/163189/2e3ba7b4-9e33-4bda-acd2-b65b45f9cfc2/
-#EXTINF:-1 tvg-id="stream-d14bf1ef-ee2c-4644-bac4-dc635ac77efd" tvg-name="fun探索娛樂台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/FUN探索娱乐.png" group-title="TW",fun探索娛樂台
+#EXTINF:-1 tvg-id="stream-d14bf1ef-ee2c-4644-bac4-dc635ac77efd" tvg-name="fun探索娛樂" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/FUN探索娱乐.png" group-title="TW",fun探索娛樂台
 https://4gtv.158.qzz.io/163189/d14bf1ef-ee2c-4644-bac4-dc635ac77efd/
 #EXTINF:-1 tvg-id="stream-0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/LOVENATURE.png" group-title="TW",Love Nature
 https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
-#EXTINF:-1 tvg-id="stream-598ae4db-7b05-4f78-824c-59702a66a3d6" tvg-name="History 歷史頻道" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/HISTORY历史.png" group-title="TW",History 歷史頻道
+#EXTINF:-1 tvg-id="stream-598ae4db-7b05-4f78-824c-59702a66a3d6" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/HISTORY历史.png" group-title="TW",History 歷史頻道
 https://4gtv.158.qzz.io/163189/598ae4db-7b05-4f78-824c-59702a66a3d6/
 #EXTINF:-1 tvg-id="stream-fa5afe6f-de73-4d79-ac14-7b75a387a59d" tvg-name="LUXE TV" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/LUXETV.png" group-title="TW",LUXE TV Channel
 https://4gtv.158.qzz.io/163189/fa5afe6f-de73-4d79-ac14-7b75a387a59d/
 #EXTINF:-1 tvg-id="stream-3b4c04e4-dce7-4082-9954-22281734ebb0" tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/HITS.png" group-title="TW",HITS頻道
 https://4gtv.158.qzz.io/163189/3b4c04e4-dce7-4082-9954-22281734ebb0/
-#EXTINF:-1 tvg-id="stream-21d72a62-e813-4e43-add1-ecdbffdb8c17" tvg-name="CI 罪案偵查" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/CI罪案侦查.png" group-title="TW",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="stream-21d72a62-e813-4e43-add1-ecdbffdb8c17" tvg-name="CI罪案偵查" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/CI罪案侦查.png" group-title="TW",CI 罪案偵查頻道
 https://4gtv.158.qzz.io/163189/21d72a62-e813-4e43-add1-ecdbffdb8c17/
 #EXTINF:-1 tvg-id="stream-4ef238ec-f098-4d4e-9d00-c07045116137" tvg-name="視納華仁紀實" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/视纳华仁纪实.png" group-title="TW",視納華仁紀實頻道
 https://4gtv.158.qzz.io/163189/4ef238ec-f098-4d4e-9d00-c07045116137/
