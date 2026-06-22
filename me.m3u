@@ -239,7 +239,7 @@ https://iptv.yang-1989.eu.org/kdf/1605
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/劲爆体育.png" group-title="Sports",劲爆体育
 http://173.208.212.130:8181/1080p/jbty.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TSN.png" group-title="Sports",TSN 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+https://iptv.852851.xyz/ch/e16d02942f82ac373f987e4bcd3ad7e1/master.m3u8
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
@@ -247,9 +247,9 @@ https://iptv.852851.xyz/ch/4b3b23ef626cd595d988a47026d4a936/master.m3u8
 #EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育2.png" group-title="Sports",愛爾達體育2台
 https://iptv.852851.xyz/ch/584dd7867274a478fe50ead92572ad1f/master.m3u8
 #EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育3.png" group-title="Sports",愛爾達體育3台
-https://live.catvod.com/?id=L2xyL2RMUU9uTDEyaldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTgzZTRmMDVhJmNuPTFlMGQ1ODRjJmNwPWM4NWU4Zjg1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ce4cc605d8f382442de19b6d00753a49
+http://iptv.707626.xyz/l/MPkM3a5boUUiatn9N-YWaoCdH-j31nFueuk-1YBYDGUuE_WY53j-klpee152igWV/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
-https://live.catvod.com/?id=L2xyL2RMUU9uTDEyaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD04M2U0ZjA1YSZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ce4cc605d8f382442de19b6d00753a49
+http://iptv.707626.xyz/l/th5ZRfsY3b96WPShhdgelV2yurdnwMdFalqHqOYtcg4clvbEh75P8QqUKAPrG6l3/index.m3u8
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
