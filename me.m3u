@@ -239,6 +239,7 @@ https://iptv.yang-1989.eu.org/kdf/1605
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/劲爆体育.png" group-title="Sports",劲爆体育
 http://173.208.212.130:8181/1080p/jbty.m3u8
 #EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TSN.png" group-title="Sports",TSN 4K
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 https://iptv.852851.xyz/ch/e16d02942f82ac373f987e4bcd3ad7e1/master.m3u8
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 
@@ -253,7 +254,7 @@ http://iptv.707626.xyz/l/MPkM3a5boUUiatn9N-YWaoCdH-j31nFueuk-1YBYDGUuE_WY53j-klp
 http://iptv.707626.xyz/l/th5ZRfsY3b96WPShhdgelV2yurdnwMdFalqHqOYtcg4clvbEh75P8QqUKAPrG6l3/index.m3u8
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 #EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
 #EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
