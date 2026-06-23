@@ -196,7 +196,7 @@ http://173.208.212.130:8181/1080p/jbty.m3u8
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 https://iptv.852851.xyz/ch/e16d02942f82ac373f987e4bcd3ad7e1/master.m3u8
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
-#EXTINF:-1 tvg-id="FOX 4K" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FOX.png" group-title="Sports",FOX 4K
+#EXTINF:-1 tvg-id="FOX 4K" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FFS.png" group-title="Sports",FOX 4K
 http://77.90.60.172:36633/7
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
