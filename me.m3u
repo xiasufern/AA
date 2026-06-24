@@ -137,7 +137,7 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/ch
 
 #=============TW=====================================================================================
-#EXTINF:-1 tvg-id="stream-61385f10-c9c1-448d-94ef-91b18d1849cf" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中天新闻.png" group-title="TW",中天新聞
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中天新闻.png" group-title="TW",中天新聞
 http://192.168.100.1:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=sufern
 http://192.168.100.1:19890/trams/1923/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 #EXTINF:-1 tvg-id="stream-430fbb09-b79e-42ca-9cf4-b67f83b4eaf6" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中视.png" group-title="TW",中視
