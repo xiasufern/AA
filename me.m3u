@@ -197,6 +197,9 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 https://iptv.852851.xyz/ch/e16d02942f82ac373f987e4bcd3ad7e1/master.m3u8
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FOX2.png" group-title="Sports",FOX 4K
+http://77.90.60.172:36666/7
+
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/ch/4b3b23ef626cd595d988a47026d4a936/master.m3u8
@@ -208,11 +211,11 @@ http://iptv.707626.xyz/l/MPkM3a5boUUiatn9N-YWaoCdH-j31nFueuk-1YBYDGUuE_WY53j-klp
 http://iptv.707626.xyz/l/th5ZRfsY3b96WPShhdgelV2yurdnwMdFalqHqOYtcg4clvbEh75P8QqUKAPrG6l3/index.m3u8
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+http://77.90.60.172:36666/6
 #EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
 #EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+http://77.90.60.172:36666/3
 #EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
