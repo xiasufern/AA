@@ -167,6 +167,8 @@ http://192.168.100.1:19890/trams/544/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm
 http://192.168.100.1:19890/trams/746/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 #EXTINF:-1 tvg-id="stream-15801af6-42b5-47b0-9c68-908ce9d1ae29" tvg-name="東森財經新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/东森财经新闻.png" group-title="TW",東森財經新聞台
 http://192.168.100.1:19890/trams/761/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+#EXTINF:-1 tvg-id="stream-ca241422-9067-424c-bbd7-9aab4a6a39b0" tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视第一.png" group-title="TW",民視第一台
+https://4g.158.qzz.io/163189/msdyt
 #EXTINF:-1 tvg-id="stream-1a62f7fd-8d11-4540-a6c7-ae34d9f059ee" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中视新闻.png" group-title="TW",中視新聞
 http://192.168.100.1:19890/trams/1989/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 #EXTINF:-1 tvg-id="stream-2e3ba7b4-9e33-4bda-acd2-b65b45f9cfc2" tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/亚洲旅游.png" group-title="TW",亞洲旅遊台
