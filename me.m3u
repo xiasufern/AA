@@ -88,8 +88,8 @@ https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 
 #EXTINF:-1 tvg-id="138" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="HK",Now爆谷星影台
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="HK",美亞電影台
-
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映频道.png" group-title="HK",天映频道
+https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="星河頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="HK",TVB 星河
 http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="HK",千禧經典台
