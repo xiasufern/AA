@@ -65,11 +65,11 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=01
 
 #=============HK=====================================================================================
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·中文
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·中文
 https://6.cdn.hi.hn/163189/fhzw
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·資訊
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·資訊
 https://6.cdn.hi.hn/163189/fhzx
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·香港
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·香港
 https://6.cdn.hi.hn/163189/fhhk
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="HK",翡翠台
 https://o11.163189.xyz/stream/tvb/fct/
