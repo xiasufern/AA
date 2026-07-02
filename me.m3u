@@ -95,11 +95,11 @@ https://cdn11.163189.xyz/163189/hoy76
 https://6.cdn.hi.hn/163189/hoy
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY78.png" group-title="HK",HOY 資訊台
 https://1.cdn.hi.hn/163189/hoy78
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK31.png" group-title="HK",RTHK 31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/RTHK31.png" group-title="HK",RTHK 31
 https://1.cdn.hi.hn/163189/rthk31
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK32.png" group-title="HK",RTHK 32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/RTHK32.png" group-title="HK",RTHK 32
 https://1.cdn.hi.hn/163189/rthk32
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK33.png" group-title="HK",RTHK 33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper//RTHK33.png" group-title="HK",RTHK 33
 https://6.cdn.hi.hn/163189/cctv1
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="HK",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
