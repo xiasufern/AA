@@ -206,7 +206,7 @@ https://iptv.852851.xyz/l/HXFNDWgnaNhjoPRYAxbCDJhd_zw_ZuIJYc6iJYB7ZarZUUVUkZqrYL
 #EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育3.png" group-title="Sports",愛爾達體育3台
 https://iptv.852851.xyz/l/CQxqsORIhD4RwVrfZLozfyfQVrky59UGjmf1GGZpdbjztx579HZIawyFDjmDfaG4/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
-
+http://192.168.100.1:19890/trams/2922/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
