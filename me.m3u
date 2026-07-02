@@ -106,7 +106,7 @@ https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="HK",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="HK",Astro QJ
-https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+http://192.168.100.1:19890/trams/1623/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 #EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="HK",Astro 欢喜台
 https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/爱奇艺.png" group-title="HK",iQIYI
