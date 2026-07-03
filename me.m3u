@@ -73,8 +73,10 @@ https://cdn.qd.je/163189.php?id=fhzx
 https://cdn.qd.je/163189.php?id=fhhk
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/翡翠.png" group-title="HK",翡翠台
 https://cdn.qd.je/163189.php?id=fct
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TVBPLUS.png" group-title="HK",TVB Plus
-
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TVB1.png" group-title="HK",TVB1
+https://cdn.qd.je/163189.php?id=tvb1
+#EXTINF:-1 tvg-id="TVBD" tvg-name="TVBD" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FCJJ.png" group-title="HK",翡翠劇集台
+https://cdn.qd.je/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="HK",無綫新聞台
 https://cdn.qd.je/163189.php?id=wxxw
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="HK",Now新聞台
