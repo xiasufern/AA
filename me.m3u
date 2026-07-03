@@ -66,59 +66,57 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=01
 #=============HK=====================================================================================
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·中文
-https://6.cdn.hi.hn/163189/fhzw
+https://cdn.qd.je/163189.php?id=fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·資訊
-https://6.cdn.hi.hn/163189/fhzx
+https://cdn.qd.je/163189.php?id=fhzx
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="HK",鳳凰衛視·香港
-https://6.cdn.hi.hn/163189/fhhk
+https://cdn.qd.je/163189.php?id=fhhk
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/翡翠.png" group-title="HK",翡翠台
-https://o11.163189.xyz/stream/tvb/fct/
+https://cdn.qd.je/163189.php?id=fct
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TVBPLUS.png" group-title="HK",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="HK",無綫新聞台
-https://6.cdn.hi.hn/163189/wxxw
+https://cdn.qd.je/163189.php?id=wxxw
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="HK",Now新聞台
-https://1.cdn.hi.hn/163189/now
+https://cdn.qd.je/163189.php?id=now
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/天映.png" group-title="HK",天映频道
-https://o11.163189.xyz/stream/live/typd/
+https://cdn.qd.je/163189.php?id=typd
 #EXTINF:-1 tvg-id="TVB 星河台" tvg-name="星河頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="HK",TVB 星河
-https://o11.163189.xyz/stream/live/tvbxh/
+https://cdn.qd.je/163189.php?id=xinghe
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="HK",千禧經典台
-https://o11.163189.xyz/stream/live/tvbc/
+
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="HK",ViuTV
 http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="HK",ViuTVsix
-https://10.cdn.hi.hn/163189/viu6/
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY76.png" group-title="HK",HOY 國際財經台
-https://cdn11.163189.xyz/163189/hoy76
+https://cdn.qd.je/163189.php?id=hoy76
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY77.png" group-title="HK",HOY TV
-https://6.cdn.hi.hn/163189/hoy
+https://cdn.qd.je/163189.php?id=hoy
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY78.png" group-title="HK",HOY 資訊台
-https://1.cdn.hi.hn/163189/hoy78
+https://cdn.qd.je/163189.php?id=hoy78
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/RTHK31.png" group-title="HK",RTHK 31
-https://1.cdn.hi.hn/163189/rthk31
+https://cdn.qd.je/163189.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/RTHK32.png" group-title="HK",RTHK 32
-https://1.cdn.hi.hn/163189/rthk32
+https://cdn.qd.je/163189.php?id=rthk32
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper//RTHK33.png" group-title="HK",RTHK 33
-https://6.cdn.hi.hn/163189/cctv1
+
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="HK",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
+
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="HK",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
+
 #EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="HK",Astro QJ
 http://192.168.100.1:19890/trams/1623/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 #EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="HK",Astro 欢喜台
-https://o11.163189.xyz/stream/live/hxt/
+
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/爱奇艺.png" group-title="HK",iQIYI
-https://o11.163189.xyz/stream/live/iqiyi/
+
 #EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="HK",八度空間
-https://6.cdn.hi.hn/163189/8tv
+
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="HK",Channel 5
-https://6.cdn.hi.hn/163189/ch5
+https://cdn.qd.je/163189.php?id=ch5
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png" group-title="HK",Channel 8
-https://6.cdn.hi.hn/163189/ch8
+https://cdn.qd.je/163189.php?id=ch8
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="HK",Channel U
-https://6.cdn.hi.hn/163189/chu
+https://cdn.qd.je/163189.php?id=chu
 
 #=============TW=====================================================================================
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中天新闻.png" group-title="TW",中天新聞
