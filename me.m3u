@@ -188,6 +188,9 @@ http://198.98.55.60:36666/5
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FOX2.png" group-title="Sports",FOXSPORTS 4K
 http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465858
 
+#EXTINF:-1 tvg-id="APPLETV F1" tvg-name="APPLETV F1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/F1.png" group-title="Sports",AppleTv F1
+https://jpeg.71890322.cc/live/stream-efff6225-e24b-42b9-a74e-d5fa435cf7fd/index.m3u8
+
 #EXTINF:-1 tvg-id="Fussball.TV 1 4K" tvg-name="Fussball.TV 1 4K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/111.png" group-title="Sports",Fussball.TV 1 4K
 http://198.98.55.60:36666/4
 
