@@ -79,7 +79,7 @@ https://cdn.qd.je/163189.php?id=tvb1
 https://cdn.qd.je/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="HK",無綫新聞台
 https://cdn.qd.je/163189.php?id=wxxw
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="HK",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https:"https://raw.githubusercontent.com/xiasufern/AA/main/icon/NOW新闻" group-title="HK",Now新聞台
 https://cdn.qd.je/163189.php?id=now
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/天映.png" group-title="HK",天映频道
 https://cdn.qd.je/163189.php?id=typd
