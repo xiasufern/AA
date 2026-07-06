@@ -89,7 +89,8 @@ https://cdn.qd.je/163189.php?id=xinghe
 
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TVBPLUS.png" group-title="HK",TVB PLUS
 https://iptv.852851.xyz/l/90iALgYSOVDUvxzNGTiJX2UxwafH2UzSVV1DaaSTOCZmvIns6-pYIHWOLMCBvgrD/index.m3u8
-
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/POPC.png" group-title="HK",POPC
+https://iptv.852851.xyz/l/NtZ8sVi5gHN_TSzRNCiyvELL0S7optTXEjW_6A4aZUZLxgIADt4QGSqzRH13JYfT/index.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.yang-1989.xyz/logo/ViuTV.png" group-title="HK",ViuTV
 http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
