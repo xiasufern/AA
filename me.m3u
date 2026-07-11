@@ -23,7 +23,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000473?virtualDomain=01
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV10.png" group-title="央视",CCTV10
 http://124.90.44.40:6060/010/2/00000001000000060000000000000474?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV11.png" group-title="央视",CCTV11
-https://iptv.yang-1989.xyz/cn/3h6pdz?token=63d5ece5c825689d5f1c11281093806c4a1f0f07d5ea78f0
+http://192.168.100.1:28787/live/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV12.png" group-title="央视",CCTV12
 http://124.90.44.40:6060/010/2/00000001000000060000000000000476?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV13.png" group-title="央视",CCTV13
@@ -31,10 +31,11 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000793?virtualDomain=01
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV14.png" group-title="央视",CCTV14
 http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV15.png" group-title="央视",CCTV15
-https://iptv.yang-1989.xyz/cn/4rw8sn?token=63d5ece5c825689d5f1c11281093806c4a1f0f07d5ea78f0
+http://192.168.100.1:28787/live/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV16.png" group-title="央视",CCTV16
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV17.png" group-title="央视",CCTV17
+http://192.168.100.1:28787/live/cctv17.m3u8
 http://39.164.138.145:8899/hls/17/index.m3u8
 
 #=============4K=====================================================================================
