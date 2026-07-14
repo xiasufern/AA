@@ -126,41 +126,57 @@ https://cdn.qd.je/163189.php?id=chu
 
 #=============TW=====================================================================================
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中天新闻.png" group-title="TW",中天新聞
-http://192.168.100.1:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=sufern
-http://192.168.100.1:19890/trams/1923/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/of-4gtv-4gtv009/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live409/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv009/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-430fbb09-b79e-42ca-9cf4-b67f83b4eaf6" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中视.png" group-title="TW",中視
-http://192.168.100.1:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=sufern
+http://192.168.100.1:10801/of-4gtv-4gtv040/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv040/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-b6656a22-9521-40ee-85d5-d4bee1560858" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/华视.png" group-title="TW",華視
-http://192.168.100.1:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false&token=sufern
+http://192.168.100.1:10801/4gtv-4gtv041/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/of-4gtv-4gtv041/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-5570e8fd-69cc-43ad-8de6-e1ac63895bd4" tvg-name="華視新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/华视新闻.png" group-title="TW",華視新聞
-http://192.168.100.1:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false&token=sufern
+http://192.168.100.1:10801/of-4gtv-4gtv052/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv052/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live452/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-36b214e7-fc2f-4402-b16f-bebe0ef9c1be" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/寰宇新闻.png" group-title="TW",寰宇新聞台
-http://192.168.100.1:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=sufern
-http://192.168.100.1:19890/trams/2501/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/of-litv-longturn14/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/litv-longturn14/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live408/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-83f24df6-a3d3-41c2-a66b-f5f0ef081cdc" tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视.png" group-title="TW",民視
-http://192.168.100.1:19890/trams/2479/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-live215/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv002/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-c8e17fe8-dcc5-426b-ae9a-a898fe305d30" tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/TVBS新闻.png" group-title="TW",TVBS新聞
-http://192.168.100.1:19890/trams/738/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/media-live072/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv072/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-aecbd4e5-757e-45e7-a3a7-33f83efc98a5" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视台湾.png" group-title="TW",民視台灣台
-http://192.168.100.1:19890/trams/2033/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-4gtv001/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live401/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-ac9fc30c-1caf-401e-a373-9a8cc054b527" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/TVBS.png" group-title="TW",TVBS
-http://192.168.100.1:19890/trams/735/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/media-live073/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-cd3d7097-895c-47c8-8b43-4d22e758cf55" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/镜电视新闻.png" group-title="TW",鏡電視新聞台
 #EXTINF:-1 tvg-id="stream-3d610e6d-aa4f-48bf-8516-eb823977d10f" tvg-name="三立綜合" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/三立综合.png" group-title="TW",三立綜合台
-http://192.168.100.1:19890/trams/543/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-live207/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-d8836828-137d-48d3-8c54-8291eedd9c9a" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/八大综艺.png" group-title="TW",八大綜藝台
 #EXTINF:-1 tvg-id="stream-98256d48-5a4f-4bd8-a5fe-d4abf0027819" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/东森新闻.png" group-title="TW",東森新聞台
-http://192.168.100.1:19890/trams/544/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-live114/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv152/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-ca241422-9067-424c-bbd7-9aab4a6a39b0" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视新闻.png" group-title="TW",民視新聞台
-http://192.168.100.1:19890/trams/746/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-live413/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/litv-ftv13/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-15801af6-42b5-47b0-9c68-908ce9d1ae29" tvg-name="東森財經新聞台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/东森财经新闻.png" group-title="TW",東森財經新聞台
-http://192.168.100.1:19890/trams/761/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-4gtv153/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live019/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-ca241422-9067-424c-bbd7-9aab4a6a39b0" tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/民视第一.png" group-title="TW",民視第一台
-https://4g.158.qzz.io/163189/msdyt
+http://192.168.100.1:10801/4gtv-4gtv003/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live403/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-1a62f7fd-8d11-4540-a6c7-ae34d9f059ee" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/中视新闻.png" group-title="TW",中視新聞
-http://192.168.100.1:19890/trams/1989/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/4gtv-4gtv074/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live474/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/of-4gtv-4gtv074/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="stream-2e3ba7b4-9e33-4bda-acd2-b65b45f9cfc2" tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/TWICON/亚洲旅游.png" group-title="TW",亞洲旅遊台
-http://192.168.100.1:19890/trams/2055/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+http://192.168.100.1:10801/of-4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 
 
 
