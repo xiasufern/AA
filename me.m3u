@@ -178,7 +178,19 @@ http://192.168.100.1:10801/of-4gtv-4gtv074/index.m3u8?token=r4gemnSAeGX9swMzA7cB
 http://192.168.100.1:10801/of-4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 http://192.168.100.1:10801/4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 
-
+#=============DIS=====================================================================================
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="Discovery",Love Nature
+http://192.168.100.1:10801/4gtv-live208/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Discovery",亞洲旅遊台
+http://192.168.100.1:10801/of-4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="Discovery",CI 罪案偵查頻道
+http://192.168.100.1:10801/4gtv-live027/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="Discovery",History 歷史頻道
+http://192.168.100.1:10801/4gtv-live026/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="Discovery",LUXE TV Channel
+http://192.168.100.1:10801/4gtv-live121/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="Discovery",愛爾達生活旅遊台
+http://192.168.100.1:10801/4gtv-live120/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 
 #=============Sports=====================================================================================
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="Sports",CCTV5
@@ -206,10 +218,7 @@ https://idabest.danng.me/live/stream-d316229c-0661-48dc-98ee-0b76b30a3151/index.
 
 #EXTINF:-1 tvg-id="APPLETV F1" tvg-name="APPLETV F1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/F1.png" group-title="Sports",APPLETV F1
 
-
 #EXTINF:-1 tvg-id="Fussball.TV 1 4K" tvg-name="Fussball.TV 1 4K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/111.png" group-title="Sports",Fussball.TV 1 4K
-
-
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
 https://iptv.852851.xyz/l/Zawx-MtURsckaaCSPnDvByCfspgLBHmeamGTpVsyE4OiO1K-bdwAh7wXMZmlat_E/index.m3u8
@@ -219,9 +228,6 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
 https://iptv.852851.xyz/l/gSmtztZIsdlaMsBI5tt-SM-WxA9kkR1KlUlpKlIzeKvDTo_wkEghqSeMRqorLp4D/index.m3u8
 #EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
 https://iptv.852851.xyz/l/Kzorp8H4CQ5P59b1SxY_1diJd8I7RuFUYqdqBBjmAl91ySF-wJUXoHfTi34gh5mg/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://iptv.852851.xyz/l/BTa4WGOL6bZABiwMZcoTsGMEVeLVf7YVLlG-oWbpbFso2fWKUzRaiFaQ1hbZ8CHT/index.m3u8
@@ -233,9 +239,9 @@ https://iptv.852851.xyz/l/CQxqsORIhD4RwVrfZLozfyfQVrky59UGjmf1GGZpdbjztx579HZIaw
 http://192.168.100.1:19890/trams/2922/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
+
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://epg.112114.xyz/logo/ESPN2.png" group-title="Sports",ESPN2
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119666
+
 
 
 
