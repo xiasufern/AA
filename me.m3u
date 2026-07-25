@@ -191,6 +191,15 @@ http://192.168.100.1:10801/4gtv-live026/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7
 http://192.168.100.1:10801/4gtv-live121/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="Discovery",愛爾達生活旅遊台
 http://192.168.100.1:10801/4gtv-live120/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" tvg-name="BBC Earth HD" group-title="Discovery",BBC Earth HD
+http://192.168.100.1:19890/trams/2037/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" tvg-name="BBC Earth Lifestyle" group-title="Discovery",BBC Earth Lifestyle
+http://192.168.100.1:19890/trams/2038/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" tvg-name="探索频道" group-title="Discovery",探索频道
+http://192.168.100.1:19890/trams/2878/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+
+
+
 
 #=============Sports=====================================================================================
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="Sports",CCTV5
