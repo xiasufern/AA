@@ -239,6 +239,10 @@ http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 https://test.946985.filegear-sg.me/proxy/16cf03b58a038127
 #EXTINF:-1 tvg-id="stream-2f4ab441-b016-4868-bb5c-56024895ff81" tvg-name="Hami大聯盟2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/大联盟2台.png"  group-title="Sports",Hami大聯盟2台
 https://test.946985.filegear-sg.me/proxy/becb311c0388b8b7
+#EXTINF:-1 tvg-id="stream-3d3c6496-5a29-498d-9fa7-027cb6e24a14" tvg-name="Hami體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/hami体育1台.png"  group-title="Sports",Hami體育1台
+https://test.946985.filegear-sg.me/proxy/43bbf765b363368d
+#EXTINF:-1 tvg-id="stream-b6d4dc7a-1eb5-4dc9-87f9-74d2bf2a4f82" tvg-name="Hami體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/hami体育2台.png"  group-title="Sports",Hami體育2台
+https://test.946985.filegear-sg.me/proxy/f32a77c2a9ca1423
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 #EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育2.png" group-title="Sports",愛爾達體育2台
@@ -257,8 +261,7 @@ https://test.946985.filegear-sg.me/proxy/bea649bdfcc7c14a
 https://test.946985.filegear-sg.me/proxy/28ae4e251e49b04f
 #EXTINF:-1 tvg-id="stream-fa48b7cb-7d4a-4bf6-bb40-3dda06768023" tvg-name="Hami足球1台" group-title="Sports",Hami足球1台
 https://test.946985.filegear-sg.me/proxy/31ddb7e11672492e
-#EXTINF:-1 tvg-id="stream-b6d4dc7a-1eb5-4dc9-87f9-74d2bf2a4f82" tvg-name="Hami體育2台" group-title="Sports",Hami體育2台
-https://test.946985.filegear-sg.me/proxy/f32a77c2a9ca1423
+
 
 
 
