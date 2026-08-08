@@ -235,7 +235,10 @@ http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
 
-
+#EXTINF:-1 tvg-id="stream-262456b5-a279-44f0-b4e9-c76d266270ff" tvg-name="Hami大聯盟1台"  tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/大联盟1台.png" group-title="Sports",Hami大聯盟1台
+https://test.946985.filegear-sg.me/proxy/16cf03b58a038127
+#EXTINF:-1 tvg-id="stream-2f4ab441-b016-4868-bb5c-56024895ff81" tvg-name="Hami大聯盟2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/大联盟2台.png"  group-title="Sports",Hami大聯盟2台
+https://test.946985.filegear-sg.me/proxy/becb311c0388b8b7
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
 https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 #EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育2.png" group-title="Sports",愛爾達體育2台
