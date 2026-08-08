@@ -200,19 +200,19 @@ http://192.168.100.1:19890/trams/2878/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoL
 
 #=============Hmai=====================================================================================
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz"
-#EXTINF:-1 tvg-id="stream-262456b5-a279-44f0-b4e9-c76d266270ff" tvg-name="Hami大聯盟1台" group-title="Hami",Hami大聯盟1台
+#EXTINF:-1 tvg-id="stream-262456b5-a279-44f0-b4e9-c76d266270ff" tvg-name="Hami大聯盟1台" group-title="Hmai",Hami大聯盟1台
 https://test.946985.filegear-sg.me/proxy/16cf03b58a038127
-#EXTINF:-1 tvg-id="stream-2f4ab441-b016-4868-bb5c-56024895ff81" tvg-name="Hami大聯盟2台" group-title="Hami",Hami大聯盟2台
+#EXTINF:-1 tvg-id="stream-2f4ab441-b016-4868-bb5c-56024895ff81" tvg-name="Hami大聯盟2台" group-title="Hmai",Hami大聯盟2台
 https://test.946985.filegear-sg.me/proxy/becb311c0388b8b7
-#EXTINF:-1 tvg-id="stream-3d3c6496-5a29-498d-9fa7-027cb6e24a14" tvg-name="Hami體育1台" group-title="Hami",Hami體育1台
+#EXTINF:-1 tvg-id="stream-3d3c6496-5a29-498d-9fa7-027cb6e24a14" tvg-name="Hami體育1台" group-title="Hmai",Hami體育1台
 https://test.946985.filegear-sg.me/proxy/43bbf765b363368d
-#EXTINF:-1 tvg-id="stream-7ff5b9f6-561b-4671-b47c-109e7dbcfd59" tvg-name="愛爾達體育1台" group-title="Hami",愛爾達體育1台
+#EXTINF:-1 tvg-id="stream-7ff5b9f6-561b-4671-b47c-109e7dbcfd59" tvg-name="愛爾達體育1台" group-title="Hmai",愛爾達體育1台
 https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
-#EXTINF:-1 tvg-id="stream-ec47ae69-5dbd-4a5f-87f0-b450f693ca7a" tvg-name="愛爾達體育2台" group-title="Hami",愛爾達體育2台
+#EXTINF:-1 tvg-id="stream-ec47ae69-5dbd-4a5f-87f0-b450f693ca7a" tvg-name="愛爾達體育2台" group-title="Hmai",愛爾達體育2台
 https://test.946985.filegear-sg.me/proxy/6a713200b868e519
-#EXTINF:-1 tvg-id="stream-36f6636b-3b73-46a1-863a-ec87f3953547" tvg-name="愛爾達體育3台" group-title="Hami",愛爾達體育3台
+#EXTINF:-1 tvg-id="stream-36f6636b-3b73-46a1-863a-ec87f3953547" tvg-name="愛爾達體育3台" group-title="Hmai",愛爾達體育3台
 https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
-#EXTINF:-1 tvg-id="stream-9fc50933-56b4-4890-9e43-b6b9fc68de61" tvg-name="愛爾達體育4台" group-title="Hami",愛爾達體育4台
+#EXTINF:-1 tvg-id="stream-9fc50933-56b4-4890-9e43-b6b9fc68de61" tvg-name="愛爾達體育4台" group-title="Hmai",愛爾達體育4台
 https://test.946985.filegear-sg.me/proxy/ad350f6ccf40b815
 #EXTINF:-1 tvg-id="stream-e0ef69c0-7dcd-4bec-a368-34d07225eac9" tvg-name="愛爾達體育MAX1台" group-title="Hmai",愛爾達體育MAX1台
 https://test.946985.filegear-sg.me/proxy/c39673f2c1c1f3aa
