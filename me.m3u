@@ -199,253 +199,7 @@ http://192.168.100.1:19890/trams/2038/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoL
 http://192.168.100.1:19890/trams/2878/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
 
 #=============Hmai=====================================================================================
-#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz"
-#EXTINF:-1 tvg-id="stream-262456b5-a279-44f0-b4e9-c76d266270ff" tvg-name="Hami大聯盟1台" group-title="Hami",Hami大聯盟1台
-https://test.946985.filegear-sg.me/proxy/16cf03b58a038127
-#EXTINF:-1 tvg-id="stream-2f4ab441-b016-4868-bb5c-56024895ff81" tvg-name="Hami大聯盟2台" group-title="Hami",Hami大聯盟2台
-https://test.946985.filegear-sg.me/proxy/becb311c0388b8b7
-#EXTINF:-1 tvg-id="stream-3d3c6496-5a29-498d-9fa7-027cb6e24a14" tvg-name="Hami體育1台" group-title="Hami",Hami體育1台
-https://test.946985.filegear-sg.me/proxy/43bbf765b363368d
-#EXTINF:-1 tvg-id="stream-7ff5b9f6-561b-4671-b47c-109e7dbcfd59" tvg-name="愛爾達體育1台" group-title="Hami",愛爾達體育1台
-https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
-#EXTINF:-1 tvg-id="stream-ec47ae69-5dbd-4a5f-87f0-b450f693ca7a" tvg-name="愛爾達體育2台" group-title="Hami",愛爾達體育2台
-https://test.946985.filegear-sg.me/proxy/6a713200b868e519
-#EXTINF:-1 tvg-id="stream-36f6636b-3b73-46a1-863a-ec87f3953547" tvg-name="愛爾達體育3台" group-title="Hami",愛爾達體育3台
-https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
-#EXTINF:-1 tvg-id="stream-9fc50933-56b4-4890-9e43-b6b9fc68de61" tvg-name="愛爾達體育4台" group-title="Hami",愛爾達體育4台
-https://test.946985.filegear-sg.me/proxy/ad350f6ccf40b815
-#EXTINF:-1 tvg-id="stream-e0ef69c0-7dcd-4bec-a368-34d07225eac9" tvg-name="愛爾達體育MAX1台" group-title="Hami",愛爾達體育MAX1台
-https://test.946985.filegear-sg.me/proxy/c39673f2c1c1f3aa
-#EXTINF:-1 tvg-id="stream-a98b2b0c-8ee4-428f-9926-f478c6a9e3ce" tvg-name="愛爾達體育MAX2台" group-title="Hami",愛爾達體育MAX2台
-https://test.946985.filegear-sg.me/proxy/ee8c89538d422e89
-#EXTINF:-1 tvg-id="stream-fc7780eb-8032-40bb-b60b-85c78954899f" tvg-name="愛爾達體育MAX3台" group-title="Hami",愛爾達體育MAX3台
-https://test.946985.filegear-sg.me/proxy/bea649bdfcc7c14a
-#EXTINF:-1 tvg-id="stream-c2262df6-2802-4ef7-88b0-19095fcc1627" tvg-name="愛爾達體育MAX4台" group-title="Hami",愛爾達體育MAX4台
-https://test.946985.filegear-sg.me/proxy/28ae4e251e49b04f
-#EXTINF:-1 tvg-id="stream-fa48b7cb-7d4a-4bf6-bb40-3dda06768023" tvg-name="Hami足球1台" group-title="Hami",Hami足球1台
-https://test.946985.filegear-sg.me/proxy/31ddb7e11672492e
-#EXTINF:-1 tvg-id="stream-b6d4dc7a-1eb5-4dc9-87f9-74d2bf2a4f82" tvg-name="Hami體育2台" group-title="Hami",Hami體育2台
-https://test.946985.filegear-sg.me/proxy/f32a77c2a9ca1423
-#EXTINF:-1 tvg-id="stream-a955e06b-a4c9-4bbf-b701-aa7e52a493c0" tvg-name="愛爾達寵物運動台" group-title="Hami",愛爾達寵物運動台
-https://test.946985.filegear-sg.me/proxy/77495e166cfd10eb
-#EXTINF:-1 tvg-id="stream-0e8ddf84-863f-4561-adc4-56c237b835fb" tvg-name="博斯網球台" group-title="Hami",博斯網球台
-https://test.946985.filegear-sg.me/proxy/1e5d5edd1a278194
-#EXTINF:-1 tvg-id="stream-8554e23e-155e-43ec-b909-09c26aca4484" tvg-name="博斯運動一台" group-title="Hami",博斯運動一台
-https://test.946985.filegear-sg.me/proxy/36948ccccb119b46
-#EXTINF:-1 tvg-id="stream-f194603b-dcd4-403b-8e68-29b3fd484050" tvg-name="博斯運動二台" group-title="Hami",博斯運動二台
-https://test.946985.filegear-sg.me/proxy/f94e0d272ad7bee9
-#EXTINF:-1 tvg-id="stream-444124d9-5333-415a-9207-cd2f7d5c7b61" tvg-name="博斯魅力網" group-title="Hami",博斯魅力網
-https://test.946985.filegear-sg.me/proxy/242a812638db055a
-#EXTINF:-1 tvg-id="stream-5002a52c-dbf8-49bb-8613-b609303c195a" tvg-name="博斯無限台" group-title="Hami",博斯無限台
-https://test.946985.filegear-sg.me/proxy/7d45ae1dbb85b19d
-#EXTINF:-1 tvg-id="stream-41118fd8-4661-44c3-92e4-a7e6e227e0d1" tvg-name="博斯高球一台" group-title="Hami",博斯高球一台
-https://test.946985.filegear-sg.me/proxy/d8c77f38996b610e
-#EXTINF:-1 tvg-id="stream-48518943-d235-49f5-9fa1-083c0ca44c12" tvg-name="博斯無限二台" group-title="Hami",博斯無限二台
-https://test.946985.filegear-sg.me/proxy/5ee8dbbaadcb90c7
-#EXTINF:-1 tvg-id="stream-933859a7-1e75-4d7e-b820-5ebc81c6d94e" tvg-name="Ginx TV電競頻道" group-title="Hami",Ginx TV電競頻道
-https://test.946985.filegear-sg.me/proxy/51dd807907e8a60d
-#EXTINF:-1 tvg-id="stream-856b71f3-94c2-4489-b322-e59e68253d2e" tvg-name="EUROSPORT" group-title="Hami",EUROSPORT
-https://test.946985.filegear-sg.me/proxy/41791d0cff9a1b50
-#EXTINF:-1 tvg-id="stream-e3cc872a-2665-4044-aaa4-595f41fc5928" tvg-name="TRACE Sport Stars" group-title="Hami",TRACE Sport Stars
-https://test.946985.filegear-sg.me/proxy/b983897bd5d71bb1
-#EXTINF:-1 tvg-id="stream-b2fdf990-668c-4bf1-a0fa-3f8dd51e9dde" tvg-name="影迷數位紀實台" group-title="Hami",影迷數位紀實台
-https://test.946985.filegear-sg.me/proxy/0586c8f5ac8ac9f3
-#EXTINF:-1 tvg-id="stream-834f9418-ded9-4037-9acf-f8f0c277175f" tvg-name="龍華電影" group-title="Hami",龍華電影
-https://test.946985.filegear-sg.me/proxy/1373762f458002ac
-#EXTINF:-1 tvg-id="stream-febc3a90-432d-4a97-9311-ddab6a78f2d1" tvg-name="CATCHPLAY電影台" group-title="Hami",CATCHPLAY電影台
-https://test.946985.filegear-sg.me/proxy/154511fdfba00055
-#EXTINF:-1 tvg-id="stream-1bc6e0fb-632b-4555-bdb1-64a4d893f72d" tvg-name="龍華洋片台" group-title="Hami",龍華洋片台
-https://test.946985.filegear-sg.me/proxy/f2eae22a9615477e
-#EXTINF:-1 tvg-id="stream-e9ec12e3-f80c-4a32-b0ef-f47dcb0c4d1a" tvg-name="ROCK Action" group-title="Hami",ROCK Action
-https://test.946985.filegear-sg.me/proxy/6339e62685f6a220
-#EXTINF:-1 tvg-id="stream-5cba2754-efeb-4ab1-b06a-bb83983a8532" tvg-name="愛爾達日韓台" group-title="Hami",愛爾達日韓台
-https://test.946985.filegear-sg.me/proxy/42b33ef1fcb9956b
-#EXTINF:-1 tvg-id="stream-6f10a7f6-fc19-4f9b-831a-7c41b77ec24e" tvg-name="愛爾達影劇台" group-title="Hami",愛爾達影劇台
-https://test.946985.filegear-sg.me/proxy/83d6b4fa3fde7968
-#EXTINF:-1 tvg-id="stream-35a5480b-5669-47d9-a962-8c5b8645e9f2" tvg-name="CinemaWorld頻道" group-title="Hami",CinemaWorld頻道
-https://test.946985.filegear-sg.me/proxy/cc35499cdf798ead
-#EXTINF:-1 tvg-id="stream-c04f8e5f-4fce-488f-8662-c4a285d2cf0d" tvg-name="靖洋戲劇台" group-title="Hami",靖洋戲劇台
-https://test.946985.filegear-sg.me/proxy/e64c89a66440ea61
-#EXTINF:-1 tvg-id="stream-b55ace06-5eaf-4e65-a294-b8be12ff0f2f" tvg-name="Warner TV" group-title="Hami",Warner TV
-https://test.946985.filegear-sg.me/proxy/599da7ff33332417
-#EXTINF:-1 tvg-id="stream-5a9582dc-55f3-494a-a402-922ee0af8905" tvg-name="龍華戲劇" group-title="Hami",龍華戲劇
-https://test.946985.filegear-sg.me/proxy/abc4a55a2c94a929
-#EXTINF:-1 tvg-id="stream-78db580e-467d-4019-9c61-430636fed70b" tvg-name="龍華影劇" group-title="Hami",龍華影劇
-https://test.946985.filegear-sg.me/proxy/5ce9a11a24cf7a4f
-#EXTINF:-1 tvg-id="stream-7207cd71-0c17-4fb8-8a39-3ad140468f44" tvg-name="amc電影台" group-title="Hami",amc電影台
-https://test.946985.filegear-sg.me/proxy/6f25bfa07d989b51
-#EXTINF:-1 tvg-id="stream-e52fb608-8bd0-4c03-8b2b-462514ea2ec0" tvg-name="龍華偶像" group-title="Hami",龍華偶像
-https://test.946985.filegear-sg.me/proxy/830f3de48d5cff27
-#EXTINF:-1 tvg-id="stream-dac4d3ea-f89a-4c20-8a76-9ccbea44d910" tvg-name="采昌影劇台" group-title="Hami",采昌影劇台
-https://test.946985.filegear-sg.me/proxy/e4110ffd05f12c18
-#EXTINF:-1 tvg-id="stream-1ff7189e-87b8-4612-a432-e237b56343ab" tvg-name="影迷數位電影台" group-title="Hami",影迷數位電影台
-https://test.946985.filegear-sg.me/proxy/1839f5d0de8cc045
-#EXTINF:-1 tvg-id="stream-8121f402-b222-43e3-9239-c45030383f37" tvg-name="公視戲劇" group-title="Hami",公視戲劇
-https://test.946985.filegear-sg.me/proxy/0ccd94e54f551be5
-#EXTINF:-1 tvg-id="stream-7ce54b20-10dc-4566-9171-cdf1fcc20e12" tvg-name="民視影劇台" group-title="Hami",民視影劇台
-https://test.946985.filegear-sg.me/proxy/c3befbac235a9668
-#EXTINF:-1 tvg-id="stream-7515fcf8-d998-4ef2-9273-3c4a1906f0bb" tvg-name="八大精彩台" group-title="Hami",八大精彩台
-https://test.946985.filegear-sg.me/proxy/facee904e60a8b85
-#EXTINF:-1 tvg-id="stream-a2b10221-8cce-40df-8861-80d0b712398f" tvg-name="金光布袋戲" group-title="Hami",金光布袋戲
-https://test.946985.filegear-sg.me/proxy/fd09f5cc59a278c2
-#EXTINF:-1 tvg-id="stream-bc5c15bb-578f-40d4-bb73-aef881df4ca7" tvg-name="CNEX紀實頻道" group-title="Hami",CNEX紀實頻道
-https://test.946985.filegear-sg.me/proxy/2d33cd366c0a87bd
-#EXTINF:-1 tvg-id="stream-c07059db-8f2a-4734-b8c1-7af0678b4107" tvg-name="TVBS" group-title="Hami",TVBS
-https://test.946985.filegear-sg.me/proxy/c9e45131812c17a5
-#EXTINF:-1 tvg-id="stream-e9ab4e95-3c80-4eb7-83b5-ee34e4eeb6ea" tvg-name="民視無線台" group-title="Hami",民視無線台
-https://test.946985.filegear-sg.me/proxy/7191de66bc182082
-#EXTINF:-1 tvg-id="stream-f80693c0-ff99-423b-aa4e-28c01eb60041" tvg-name="台視主頻" group-title="Hami",台視主頻
-https://test.946985.filegear-sg.me/proxy/d3cddfaf4bbb3244
-#EXTINF:-1 tvg-id="stream-58f6d48a-eb78-4381-bfc6-37f1a464101b" tvg-name="tvN" group-title="Hami",tvN
-https://test.946985.filegear-sg.me/proxy/40dcfb9d562ededf
-#EXTINF:-1 tvg-id="stream-eed51e51-7b56-439e-b01f-f879db55e3bd" tvg-name="中視主頻" group-title="Hami",中視主頻
-https://test.946985.filegear-sg.me/proxy/be4a3fbf4e254714
-#EXTINF:-1 tvg-id="stream-03b02621-669c-4dda-9e31-a77121741668" tvg-name="華視主頻" group-title="Hami",華視主頻
-https://test.946985.filegear-sg.me/proxy/90b6fc8b178e94e7
-#EXTINF:-1 tvg-id="stream-2d369eae-9ae1-457a-80e0-9b10031eed77" tvg-name="momo綜合台" group-title="Hami",momo綜合台
-https://test.946985.filegear-sg.me/proxy/a4d7da28013effee
-#EXTINF:-1 tvg-id="stream-98cdd2a5-ef06-4c8b-b2f1-8c4aba271293" tvg-name="愛爾達綜合台" group-title="Hami",愛爾達綜合台
-https://test.946985.filegear-sg.me/proxy/feec1de679b10123
-#EXTINF:-1 tvg-id="stream-637fd6ff-46f4-4bc0-b580-3c0523a3b582" tvg-name="靖天育樂台" group-title="Hami",靖天育樂台
-https://test.946985.filegear-sg.me/proxy/17b173b050c43261
-#EXTINF:-1 tvg-id="stream-e70632d6-14fa-4c49-8398-35d1021a3a28" tvg-name="靖天日本台" group-title="Hami",靖天日本台
-https://test.946985.filegear-sg.me/proxy/713483d3fefaec3d
-#EXTINF:-1 tvg-id="stream-16220f39-bfd4-4c3f-b79f-3a07a9ad1f8e" tvg-name="TVBS精采台" group-title="Hami",TVBS精采台
-https://test.946985.filegear-sg.me/proxy/a9243fc68f8e2fae
-#EXTINF:-1 tvg-id="stream-127b8e67-f272-45f2-9820-bfd9bea70cd2" tvg-name="民視台灣台" group-title="Hami",民視台灣台
-https://test.946985.filegear-sg.me/proxy/1a4348ed3c60ba9d
-#EXTINF:-1 tvg-id="stream-a0574b11-a87a-4f13-ad9f-1480319675e9" tvg-name="民視第一台" group-title="Hami",民視第一台
-https://test.946985.filegear-sg.me/proxy/84e7d84de41a0cf3
-#EXTINF:-1 tvg-id="stream-88fc55c8-430a-462b-b719-3f44cbe23c3f" tvg-name="中視菁采台" group-title="Hami",中視菁采台
-https://test.946985.filegear-sg.me/proxy/bc876ede6614114a
-#EXTINF:-1 tvg-id="stream-1690aece-6289-4ca7-a86d-3c9467725ba0" tvg-name="台視綜合台" group-title="Hami",台視綜合台
-https://test.946985.filegear-sg.me/proxy/58339e23291b6932
-#EXTINF:-1 tvg-id="stream-eddb8591-6160-4e1a-b80f-e2bae2891ed1" tvg-name="中視經典台" group-title="Hami",中視經典台
-https://test.946985.filegear-sg.me/proxy/831c0c65c38719ed
-#EXTINF:-1 tvg-id="stream-f361e9b2-a6a8-483f-bc32-198a6d7494e0" tvg-name="華藝中文台" group-title="Hami",華藝中文台
-https://test.946985.filegear-sg.me/proxy/7a99e7469ea6f909
-#EXTINF:-1 tvg-id="stream-640d44d4-bc5a-497b-8c90-850647f47a79" tvg-name="ROCK Entertainment" group-title="Hami",ROCK Entertainment
-https://test.946985.filegear-sg.me/proxy/0bd7dc66719f5143
-#EXTINF:-1 tvg-id="stream-eb93e545-2657-4900-b4d8-e239d6d08ff8" tvg-name="ROCK X Stream" group-title="Hami",ROCK X Stream
-https://test.946985.filegear-sg.me/proxy/661843fd4fd0d9d6
-#EXTINF:-1 tvg-id="stream-95e2da2a-038f-4158-813c-3143b04e8768" tvg-name="大愛電視" group-title="Hami",大愛電視
-https://test.946985.filegear-sg.me/proxy/bb03d7ea17938fe1
-#EXTINF:-1 tvg-id="stream-a4e701af-0d0d-4a0f-885b-aaa3758d8eb7" tvg-name="人間衛視" group-title="Hami",人間衛視
-https://test.946985.filegear-sg.me/proxy/7ff5957c5564c9bf
-#EXTINF:-1 tvg-id="stream-eb4b5805-f7dd-4961-a321-490a3259cee3" tvg-name="TVBS新聞台" group-title="Hami",TVBS新聞台
-https://test.946985.filegear-sg.me/proxy/2b97ee38a3d06f4e
-#EXTINF:-1 tvg-id="stream-0d62c35e-2573-44e9-9ee3-8993d69fefcd" tvg-name="東森新聞台" group-title="Hami",東森新聞台
-https://test.946985.filegear-sg.me/proxy/32f649ae453ddd09
-#EXTINF:-1 tvg-id="stream-a95d81c0-a809-4905-ade7-d270f554ea11" tvg-name="三立新聞台" group-title="Hami",三立新聞台
-https://test.946985.filegear-sg.me/proxy/6b09e91c6926a857
-#EXTINF:-1 tvg-id="stream-af753866-cade-4aea-8009-a73110e363ee" tvg-name="非凡新聞台" group-title="Hami",非凡新聞台
-https://test.946985.filegear-sg.me/proxy/7eedfbf882f91a08
-#EXTINF:-1 tvg-id="stream-6ad9361d-0548-44e3-b5ab-91a9ab3f3107" tvg-name="民視新聞台" group-title="Hami",民視新聞台
-https://test.946985.filegear-sg.me/proxy/1fe9b8a2108f53d0
-#EXTINF:-1 tvg-id="stream-8953e14c-2bf0-49b4-9155-794be4d93cfb" tvg-name="東森財經台" group-title="Hami",東森財經台
-https://test.946985.filegear-sg.me/proxy/05d409416d6f7a9e
-#EXTINF:-1 tvg-id="stream-ad938d5d-bdd0-4f6a-b7ee-09184c948e7b" tvg-name="中天新聞台" group-title="Hami",中天新聞台
-https://test.946985.filegear-sg.me/proxy/5f8e398726778e5f
-#EXTINF:-1 tvg-id="stream-9510d4ea-8098-496d-b707-e5a359dd3e87" tvg-name="三立iNEWS" group-title="Hami",三立iNEWS
-https://test.946985.filegear-sg.me/proxy/d606457956622c40
-#EXTINF:-1 tvg-id="stream-e265948b-81f7-4e16-9230-5d0002074d3a" tvg-name="寰宇新聞" group-title="Hami",寰宇新聞
-https://test.946985.filegear-sg.me/proxy/c057c148d107d274
-#EXTINF:-1 tvg-id="stream-fbd2e23f-9b76-4ef3-8f28-a560d7116875" tvg-name="非凡商業台" group-title="Hami",非凡商業台
-https://test.946985.filegear-sg.me/proxy/5ecaa529482e9ca0
-#EXTINF:-1 tvg-id="stream-1c558d3c-400a-4228-8d7b-5f6dddb5dfd7" tvg-name="中視新聞台" group-title="Hami",中視新聞台
-https://test.946985.filegear-sg.me/proxy/c25b4ddbc3f876a8
-#EXTINF:-1 tvg-id="stream-cd0dc537-aaa0-4151-949c-5728630f70b9" tvg-name="台視新聞台" group-title="Hami",台視新聞台
-https://test.946985.filegear-sg.me/proxy/364de685373080b7
-#EXTINF:-1 tvg-id="stream-95b66dfb-b3a4-4f9f-a986-bed94979d5ba" tvg-name="華視新聞資訊台" group-title="Hami",華視新聞資訊台
-https://test.946985.filegear-sg.me/proxy/e3b34e1ed1c66f26
-#EXTINF:-1 tvg-id="stream-18d3fa9e-c1c9-40bc-a699-e2d2e46dd88c" tvg-name="鏡電視新聞台" group-title="Hami",鏡電視新聞台
-https://test.946985.filegear-sg.me/proxy/8d06c0909033b1ee
-#EXTINF:-1 tvg-id="stream-c00bfb57-0f71-44a2-9b6d-c698f60c69cf" tvg-name="Bloomberg TV" group-title="Hami",Bloomberg TV
-https://test.946985.filegear-sg.me/proxy/d6aea08fe5b75117
-#EXTINF:-1 tvg-id="stream-603c5db6-3893-4ec0-aabf-bba103167197" tvg-name="台視財經台" group-title="Hami",台視財經台
-https://test.946985.filegear-sg.me/proxy/453f5625f805261f
-#EXTINF:-1 tvg-id="stream-cbe98850-31d6-4a45-ad38-9a4bc113af9d" tvg-name="CNN國際新聞台" group-title="Hami",CNN國際新聞台
-https://test.946985.filegear-sg.me/proxy/ed1c15d66f7192d3
-#EXTINF:-1 tvg-id="stream-3f0e29fa-a9d4-4b6f-b82c-a71b62cd73bf" tvg-name="CNN頭條新聞台(HLN)" group-title="Hami",CNN頭條新聞台(HLN)
-https://test.946985.filegear-sg.me/proxy/fd6a6cab5fe3642f
-#EXTINF:-1 tvg-id="stream-68e9363b-6fe8-44f0-8524-fe5ac6451f7c" tvg-name="BBC NEWS" group-title="Hami",BBC NEWS
-https://test.946985.filegear-sg.me/proxy/5bed2c94898789a3
-#EXTINF:-1 tvg-id="stream-9d046f5a-62db-42a8-980c-105b0c1512cb" tvg-name="HGTV居家樂活頻道" group-title="Hami",HGTV居家樂活頻道
-https://test.946985.filegear-sg.me/proxy/5e197af8c1a095df
-#EXTINF:-1 tvg-id="stream-774f4bb3-87fa-42a6-9a17-1afa9dd5f39d" tvg-name="Asian Food Network亞洲美食頻道" group-title="Hami",Asian Food Network亞洲美食頻道
-https://test.946985.filegear-sg.me/proxy/158a2ea49a60e1a4
-#EXTINF:-1 tvg-id="stream-eeb4b04c-a817-4fa1-8f58-cf04078d0067" tvg-name="BBC Earth" group-title="Hami",BBC Earth
-https://test.946985.filegear-sg.me/proxy/cd0720ef1bc3470e
-#EXTINF:-1 tvg-id="stream-a77e43eb-c301-465e-a03c-10c3ae32e6d3" tvg-name="BBC Lifestyle" group-title="Hami",BBC Lifestyle
-https://test.946985.filegear-sg.me/proxy/9b215bba9dbbf915
-#EXTINF:-1 tvg-id="stream-6e114994-eaf7-4fc8-a73d-7e3ecc74b2ae" tvg-name="Discovery科學台(Science)" group-title="Hami",Discovery科學台(Science)
-https://test.946985.filegear-sg.me/proxy/687c86035d11fada
-#EXTINF:-1 tvg-id="stream-f687298a-25b0-460b-85f1-1ab95bf26293" tvg-name="麥哲倫頻道" group-title="Hami",麥哲倫頻道
-https://test.946985.filegear-sg.me/proxy/339cc746da513655
-#EXTINF:-1 tvg-id="stream-d7b5b3e6-aa6c-4deb-8b7d-2e26bd1d514b" tvg-name="Lifetime" group-title="Hami",Lifetime
-https://test.946985.filegear-sg.me/proxy/64c0e0be4720378a
-#EXTINF:-1 tvg-id="stream-6eb05fb0-4ed4-4ce1-835d-3fca77fb9b00" tvg-name="History" group-title="Hami",History
-https://test.946985.filegear-sg.me/proxy/30a8ae69eaaf0cce
-#EXTINF:-1 tvg-id="stream-bb45b0d1-362b-4f4b-9ebf-852d74b21261" tvg-name="空中英語教室" group-title="Hami",空中英語教室
-https://test.946985.filegear-sg.me/proxy/759e9f95bbc8b398
-#EXTINF:-1 tvg-id="stream-721c602b-d964-4da3-a8fd-41c4fa6b83ac" tvg-name="Discovery Asia" group-title="Hami",Discovery Asia
-https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
-#EXTINF:-1 tvg-id="stream-b009e5a0-d3c9-4422-9f37-7f2dfeb6b3ed" tvg-name="INULTRA" group-title="Hami",INULTRA
-https://test.946985.filegear-sg.me/proxy/31afb21da55151f9
-#EXTINF:-1 tvg-id="stream-01519934-1fbd-4407-8acf-7a4dd608eb41" tvg-name="LOVE NATURE" group-title="Hami",LOVE NATURE
-https://test.946985.filegear-sg.me/proxy/8f0b037366907f94
-#EXTINF:-1 tvg-id="stream-285144ae-a1cc-40cb-a769-0a9dc2cce681" tvg-name="罪案偵緝頻道" group-title="Hami",罪案偵緝頻道
-https://test.946985.filegear-sg.me/proxy/bde5b56656824934
-#EXTINF:-1 tvg-id="stream-83f74b5c-2c20-480b-bd86-76770b4450fe" tvg-name="亞洲旅遊台" group-title="Hami",亞洲旅遊台
-https://test.946985.filegear-sg.me/proxy/3dd085fd8fb382ae
-#EXTINF:-1 tvg-id="stream-3d849cbc-8e6e-4f1f-abd4-767b4737005e" tvg-name="Global Trekker" group-title="Hami",Global Trekker
-https://test.946985.filegear-sg.me/proxy/53e93870e04718fb
-#EXTINF:-1 tvg-id="stream-37c66bf9-1e16-4bef-916e-7a3d71c49626" tvg-name="Discovery EVE" group-title="Hami",Discovery EVE
-https://test.946985.filegear-sg.me/proxy/d1377afd9a15bf7a
-#EXTINF:-1 tvg-id="stream-78d08c15-91e8-4005-bfb8-0caf2a6c72d4" tvg-name="Travel Channel" group-title="Hami",Travel Channel
-https://test.946985.filegear-sg.me/proxy/93e2d9001788fc4f
-#EXTINF:-1 tvg-id="stream-10fd9160-df2d-4edf-9e86-24c2876457dd" tvg-name="LiveABC互動英語頻道" group-title="Hami",LiveABC互動英語頻道
-https://test.946985.filegear-sg.me/proxy/d8c070cb7952fe7f
-#EXTINF:-1 tvg-id="stream-56a61bff-4037-4ef1-ba5f-72dd9c0d2a9f" tvg-name="Discovery DMAX" group-title="Hami",Discovery DMAX
-https://test.946985.filegear-sg.me/proxy/041ef489ab8ea78a
-#EXTINF:-1 tvg-id="stream-4b184d7f-7f41-49a0-9c89-15c0e8da590b" tvg-name="PET CLUB TV" group-title="Hami",PET CLUB TV
-https://test.946985.filegear-sg.me/proxy/6a5a751e4f865aad
-#EXTINF:-1 tvg-id="stream-2306be03-7ebc-417e-90bd-89b8634ef06c" tvg-name="麥卡貝綜藝" group-title="Hami",麥卡貝綜藝
-https://test.946985.filegear-sg.me/proxy/f19128d16a63dd84
-#EXTINF:-1 tvg-id="stream-d6abc16f-1d69-4263-b41b-c3e7cf8acb61" tvg-name="靖天中文台" group-title="Hami",靖天中文台
-https://test.946985.filegear-sg.me/proxy/f6844b075623ff7b
-#EXTINF:-1 tvg-id="stream-e119df84-5618-4b9a-ad7a-641cc4876194" tvg-name="TVBS歡樂台" group-title="Hami",TVBS歡樂台
-https://test.946985.filegear-sg.me/proxy/17462eeaae8946a8
-#EXTINF:-1 tvg-id="stream-41056313-e862-46f4-80a9-c483adc9c133" tvg-name="民視綜藝台" group-title="Hami",民視綜藝台
-https://test.946985.filegear-sg.me/proxy/aa1b78a3226c17ca
-#EXTINF:-1 tvg-id="stream-5b64bdf1-5cca-417e-a6b8-03d174e735aa" tvg-name="豬哥亮歌廳秀" group-title="Hami",豬哥亮歌廳秀
-https://test.946985.filegear-sg.me/proxy/f0f2ee14e3645719
-#EXTINF:-1 tvg-id="stream-7bf684d4-0166-4cbe-8520-dac7e4dc91b7" tvg-name="八大綜藝台" group-title="Hami",八大綜藝台
-https://test.946985.filegear-sg.me/proxy/659a29ca2a2a1098
-#EXTINF:-1 tvg-id="stream-1d8c9469-b1b2-4cbd-ad91-d0d7925024f1" tvg-name="古典音樂台" group-title="Hami",古典音樂台
-https://test.946985.filegear-sg.me/proxy/c22c98c032c0cd3e
-#EXTINF:-1 tvg-id="stream-3288594c-e4e2-4155-a87f-cf27569b91f5" tvg-name="電影原聲台CMusic" group-title="Hami",電影原聲台CMusic
-https://test.946985.filegear-sg.me/proxy/f2f9e5ecf0905241
-#EXTINF:-1 tvg-id="stream-77ec887c-2d14-4ea6-80d4-913f03228f67" tvg-name="Mezzo Live" group-title="Hami",Mezzo Live
-https://test.946985.filegear-sg.me/proxy/7ba6f9f61140e654
-#EXTINF:-1 tvg-id="stream-4122de40-36b7-497b-ad2d-c748bfff44ea" tvg-name="Trace Urban" group-title="Hami",Trace Urban
-https://test.946985.filegear-sg.me/proxy/b2a9aded5007cc04
-#EXTINF:-1 tvg-id="stream-4776009a-63d3-4863-ad0d-c37f99d3895f" tvg-name="Nick Jr." group-title="Hami",Nick Jr.
-https://test.946985.filegear-sg.me/proxy/3f144ee5dec4dd76
-#EXTINF:-1 tvg-id="stream-79440203-918a-4714-b3cd-bdf37e485518" tvg-name="尼克兒童頻道" group-title="Hami",尼克兒童頻道
-https://test.946985.filegear-sg.me/proxy/628370b79a85df64
-#EXTINF:-1 tvg-id="stream-2975b8bd-1ed0-4f55-8add-e558b3b3036a" tvg-name="CN卡通頻道" group-title="Hami",CN卡通頻道
-https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
-#EXTINF:-1 tvg-id="stream-587ed302-101e-47e0-807f-b68c593c6f70" tvg-name="CBeebies" group-title="Hami",CBeebies
-https://test.946985.filegear-sg.me/proxy/e208d97a9b77f0a2
-#EXTINF:-1 tvg-id="stream-d6aecd15-bd8e-4c82-8def-75821fd41362" tvg-name="CARTOONITO" group-title="Hami",CARTOONITO
-https://test.946985.filegear-sg.me/proxy/62489319be3ca2ff
-#EXTINF:-1 tvg-id="stream-41e392f3-2721-4fbf-8280-f67a3bf2f0e8" tvg-name="momo親子台" group-title="Hami",momo親子台
-https://test.946985.filegear-sg.me/proxy/e4ae17002aebad89
-#EXTINF:-1 tvg-id="stream-8779a455-623f-4c52-83d5-d5590afb7821" tvg-name="DreamWorks" group-title="Hami",DreamWorks
-https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
-#EXTINF:-1 tvg-id="stream-f290d138-7963-4b1c-b608-15374f6e9cd5" tvg-name="達文西頻道" group-title="Hami",達文西頻道
-https://test.946985.filegear-sg.me/proxy/ec2ca57613192033
+
 #=============Sports=====================================================================================
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/CCTV5.png" group-title="Sports",CCTV5
 http://192.168.100.1:38766/cctv5.m3u8
@@ -465,32 +219,49 @@ https://iptv.yang-1989.eu.org/kdf/1605
 http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="TSN" tvg-name="TSN" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/TSN.png" group-title="Sports",TSN 4K
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
-https://kan.waiguotai.top/p/e755232a-1c0f-4bd6-bfbd-6ff95e78d29e
+
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/FOX2.png" group-title="Sports",FOXSPORTS 4K
-https://idabest.danng.me/live/stream-d316229c-0661-48dc-98ee-0b76b30a3151/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
+
 
 #EXTINF:-1 tvg-id="APPLETV F1" tvg-name="APPLETV F1" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/F1.png" group-title="Sports",APPLETV F1
 
 #EXTINF:-1 tvg-id="Fussball.TV 1 4K" tvg-name="Fussball.TV 1 4K" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/111.png" group-title="Sports",Fussball.TV 1 4K
 
 #EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
-https://iptv.852851.xyz/l/Zawx-MtURsckaaCSPnDvByCfspgLBHmeamGTpVsyE4OiO1K-bdwAh7wXMZmlat_E/index.m3u8
+
 #EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
+
 #EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
-https://iptv.852851.xyz/l/gSmtztZIsdlaMsBI5tt-SM-WxA9kkR1KlUlpKlIzeKvDTo_wkEghqSeMRqorLp4D/index.m3u8
+
 #EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
-https://iptv.852851.xyz/l/Kzorp8H4CQ5P59b1SxY_1diJd8I7RuFUYqdqBBjmAl91ySF-wJUXoHfTi34gh5mg/index.m3u8
+
 
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
-https://iptv.852851.xyz/l/b-XL9DNeL8WtKl8la8mcYapUCZs2SvrEqACi-2M4px4j7_fH9vAl9ceiNKJDZHmE/index.m3u8
+https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 #EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育2.png" group-title="Sports",愛爾達體育2台
-https://iptv.852851.xyz/l/pQsO4LdBR2oFZXMP2kjZveNthj4O1qkibLvrFpmWLr8WhpPTH7LMH1oRKXbttO8I/index.m3u8
+https://test.946985.filegear-sg.me/proxy/6a713200b868e519
 #EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育3.png" group-title="Sports",愛爾達體育3台
-https://iptv.852851.xyz/l/FVnj6O6kjg-jzqTiari1v5VDIHfmm9I1BGib5oiUiv8ezoTH50bLPjY7Hfrt-2Um/index.m3u8
+https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
-http://192.168.100.1:19890/trams/2922/playlist.m3u8?token=w55SBUOjGL9wGK2onuDzoLm02lggdZsPBuNCBfnKS78=
+https://test.946985.filegear-sg.me/proxy/ad350f6ccf40b815
+#EXTINF:-1 tvg-id="stream-e0ef69c0-7dcd-4bec-a368-34d07225eac9" tvg-name="愛爾達體育MAX1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/MAX1.png" group-title="Sports",愛爾達體育MAX1台
+https://test.946985.filegear-sg.me/proxy/c39673f2c1c1f3aa
+#EXTINF:-1 tvg-id="stream-a98b2b0c-8ee4-428f-9926-f478c6a9e3ce" tvg-name="愛爾達體育MAX2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/MAX2.png"  group-title="Sports",愛爾達體育MAX2台
+https://test.946985.filegear-sg.me/proxy/ee8c89538d422e89
+#EXTINF:-1 tvg-id="stream-fc7780eb-8032-40bb-b60b-85c78954899f" tvg-name="愛爾達體育MAX3台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/MAX3.png"  group-title="Sports",愛爾達體育MAX3台
+https://test.946985.filegear-sg.me/proxy/bea649bdfcc7c14a
+#EXTINF:-1 tvg-id="stream-c2262df6-2802-4ef7-88b0-19095fcc1627" tvg-name="愛爾達體育MAX4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/MAX4.png"  group-title="Sports",愛爾達體育MAX4台
+https://test.946985.filegear-sg.me/proxy/28ae4e251e49b04f
+#EXTINF:-1 tvg-id="stream-fa48b7cb-7d4a-4bf6-bb40-3dda06768023" tvg-name="Hami足球1台" group-title="Sports",Hami足球1台
+https://test.946985.filegear-sg.me/proxy/31ddb7e11672492e
+#EXTINF:-1 tvg-id="stream-b6d4dc7a-1eb5-4dc9-87f9-74d2bf2a4f82" tvg-name="Hami體育2台" group-title="Sports",Hami體育2台
+https://test.946985.filegear-sg.me/proxy/f32a77c2a9ca1423
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="Sports",ESPN
 
