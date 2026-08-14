@@ -180,6 +180,7 @@ http://192.168.100.1:10801/4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7
 
 #=============DIS=====================================================================================
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/lovenature.png" group-title="Discovery",Love Nature
+https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 http://192.168.100.1:10801/4gtv-live208/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Discovery",亞洲旅遊台
 http://192.168.100.1:10801/of-4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
