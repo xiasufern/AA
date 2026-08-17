@@ -94,13 +94,13 @@ https://cdn.qd.je/163189/tvbc
 https://iptv.852851.xyz/l/90iALgYSOVDUvxzNGTiJX2UxwafH2UzSVV1DaaSTOCZmvIns6-pYIHWOLMCBvgrD/index.m3u8
 #EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/POPC.png" group-title="HK",POPC
 https://iptv.852851.xyz/l/NtZ8sVi5gHN_TSzRNCiyvELL0S7optTXEjW_6A4aZUZLxgIADt4QGSqzRH13JYfT/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/VIUTV.png" group-title="HK",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="Viu TV" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/VIUTV.png" group-title="HK",ViuTV
 https://iptv.852851.xyz/l/H0IG-pe_UsvmsnrPwrEY_T6cXNiB_szRVaRMiKbxeEXeaqfZzIH9dxO_wK_iKBNV/index.m3u8
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY76.png" group-title="HK",HOY 國際財經台
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY國際財經台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY76.png" group-title="HK",HOY 國際財經台
 https://cdn.qd.je/163189.php?id=hoy76
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY77.png" group-title="HK",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY77.png" group-title="HK",HOY TV
 https://cdn.qd.je/163189.php?id=hoy
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY78.png" group-title="HK",HOY 資訊台
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY資訊台" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/HOY78.png" group-title="HK",HOY 資訊台
 https://cdn.qd.je/163189.php?id=hoy78
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/RTHK31.png" group-title="HK",RTHK 31
 https://cdn.qd.je/163189.php?id=rthk31
