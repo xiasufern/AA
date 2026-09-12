@@ -161,7 +161,8 @@ http://192.168.100.1:10801/4gtv-live403/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZ
 http://192.168.100.1:10801/4gtv-4gtv152/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="TW",東森財經新聞台
 http://192.168.100.1:10801/4gtv-4gtv153/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="TW",華視
+http://192.168.100.1:10801/4gtv-4gtv041/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="TW",TVBS
 http://192.168.100.1:10801/media-live073/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="TW",TVBS新聞
@@ -180,24 +181,8 @@ http://192.168.100.1:10801/of-4gtv-4gtv104/index.m3u8?token=l7CRAYeedRxgdv791ZUL
 http://192.168.100.1:10801/4gtv-live452/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="TW",鏡電視新聞台
 http://192.168.100.1:10801/4gtv-4gtv075/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="TW",Love Nature
-http://192.168.100.1:10801/4gtv-live208/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="TW",CI 罪案偵查頻道
-http://192.168.100.1:10801/4gtv-live027/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="TW",History 歷史頻道
-http://192.168.100.1:10801/4gtv-live026/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="TW",LUXE TV Channel
-http://192.168.100.1:10801/4gtv-live121/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="TW",MagellanTV頻道 (麥哲倫頻道) 
-http://192.168.100.1:10801/4gtv-live123/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="TW",TV5MONDE STYLE HD 生活時尚
-http://192.168.100.1:10801/4gtv-live122/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="TW",亞洲旅遊台
-http://192.168.100.1:10801/4gtv-live417/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="TW",幸福空間居家台
-http://192.168.100.1:10801/4gtv-4gtv064/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="TW",愛爾達生活旅遊台
-http://192.168.100.1:10801/4gtv-live120/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+
+
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="TW",滾動力rollor
 http://192.168.100.1:10801/4gtv-live012/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="TW",CinemaWorld
@@ -230,8 +215,6 @@ http://192.168.100.1:10801/4gtv-live021/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZ
 http://192.168.100.1:10801/4gtv-4gtv013/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="TW",采昌影劇台
 http://192.168.100.1:10801/4gtv-4gtv049/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="TW",金光布袋戲
-http://192.168.100.1:10801/4gtv-live144/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="TW",靖天戲劇台
 http://192.168.100.1:10801/4gtv-4gtv058/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="TW",靖天映畫
@@ -280,8 +263,7 @@ http://192.168.100.1:10801/4gtv-4gtv039/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZ
 http://192.168.100.1:10801/4gtv-4gtv080/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="TW",客家電視台
 http://192.168.100.1:10801/4gtv-4gtv043/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="TW",華視
-http://192.168.100.1:10801/4gtv-4gtv041/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="TW",靖天綜合台
 http://192.168.100.1:10801/4gtv-4gtv046/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="TW",韓國娛樂台 KMTV
@@ -318,23 +300,29 @@ http://192.168.100.1:10801/4gtv-4gtv101/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZ
 http://192.168.100.1:10801/4gtv-live201/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 
 #=============DIS=====================================================================================
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/xiasufern/AA/main/icon/lovenature.png" group-title="Discovery",Love Nature
-https://ha.msbot.dpdns.org/4gtv_api.php?id=139
-http://192.168.100.1:10801/4gtv-live208/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Discovery",亞洲旅遊台
-http://192.168.100.1:10801/of-4gtv-4gtv076/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="Discovery",Love Nature
+http://192.168.100.1:10801/4gtv-live208/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="Discovery",CI 罪案偵查頻道
-http://192.168.100.1:10801/4gtv-live027/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live027/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="Discovery",History 歷史頻道
-http://192.168.100.1:10801/4gtv-live026/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live026/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="Discovery",LUXE TV Channel
-http://192.168.100.1:10801/4gtv-live121/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live121/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="Discovery",MagellanTV頻道 (麥哲倫頻道) 
+http://192.168.100.1:10801/4gtv-live123/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="Discovery",TV5MONDE STYLE HD 生活時尚
+http://192.168.100.1:10801/4gtv-live122/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Discovery",亞洲旅遊台
+http://192.168.100.1:10801/4gtv-live417/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="Discovery",幸福空間居家台
+http://192.168.100.1:10801/4gtv-4gtv064/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="Discovery",愛爾達生活旅遊台
-http://192.168.100.1:10801/4gtv-live120/index.m3u8?token=r4gemnSAeGX9swMzA7cBTz7RvpFAFrD%2BG3qGWWGUiak5GzLdQneuM5NrdmfBMwZf
+http://192.168.100.1:10801/4gtv-live120/index.m3u8?token=l7CRAYeedRxgdv791ZULgEZx9KwjnEd5Ho4VdPiSXUCY5QGjvMZitv7TmIHdUBEB
+
 #EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" tvg-name="BBC Earth" group-title="Discovery",BBC Earth 
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" tvg-name="BBC Earth Lifestyle" group-title="Discovery",BBC Earth Lifestyle
-
 #EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" tvg-name="Discovery" group-title="Discovery",Discovery
 https://iptv.1989.click/comp/wbz46a?token=809757d162de6309a62f31059658f8321e83ec7a1097ecc1
 http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
